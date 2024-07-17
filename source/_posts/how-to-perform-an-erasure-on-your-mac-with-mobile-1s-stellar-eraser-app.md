@@ -1,0 +1,188 @@
+---
+title: How to Perform an Erasure on Your Mac with Mobile 1'S Stellar Eraser App
+date: 2024-07-16T10:37:42.552Z
+updated: 2024-07-17T10:37:42.552Z
+categories:
+  - repair-tools
+description: This Article Describes How to Perform an Erasure on Your Mac with Mobile 1'S Stellar Eraser App
+excerpt: This Article Describes How to Perform an Erasure on Your Mac with Mobile 1'S Stellar Eraser App
+thumbnail: https://thmb.techidaily.com/71c1b0d0d145dc4c00dc6d938d03b70bdf9ec4a8786caa41676fddc28bb6d867.jpg
+---
+
+## How to Perform an Erasure on Your Mac with Mobile 1'S Stellar Eraser App
+
+Stellar Eraser for Mobile
+
+* [1. About Stellar Eraser for Mobile](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+* [2. About the Guide](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+* [arow 3. Getting Started](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 3\. Getting Started ](https://www.stellarinfo.com/help/stellar-eraser-for-mobile-1-mac-standard-en-getting-started.html)  
+  * [3.1. Installing Stellar Eraser for Mobile](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
+  * [arow 3.2. Getting Familiar with User Interface](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 3.2\. Getting Familiar with User Interface ](https://www.stellarinfo.com/help/stellar-eraser-for-mobile-1-mac-standard-en-getting-familiar-with-user-interface.html)  
+         * [3.2.1. Getting Familiar with Buttons](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
+  * [3.3. Buying the Software Licenses](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
+  * [3.4. Updating the software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
+  * [3.5. Activating the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
+  * [3.6. Stellar Support](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+* [arow 4. Working with the Software](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4\. Working with the Software ](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
+  * [4.1. General Settings](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
+  * [arow 4.2. Erasure Process](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4.2\. Erasure Process ](https://www.stellarinfo.com/help/stellar-eraser-for-mobile-1-mac-standard-en-erasure-process.html)  
+         * [4.2.1. Erasure Stages](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+* [5. Frequently Asked Questions (FAQ)](https://www.stellarinfo.com/help/stellar-eraser-for-mobile-1-mac-standard-en-frequently-asked-questions-faqs.html)
+* [About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
+
+[Stellar Eraser for Mobile](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.2\. Erasure Process**
+
+# **4.2\. Erasure Process**
+
+ You can securely erase data from your device by using the erasure feature of **Stellar Eraser for Mobile** . You can choose an erasure method from a list of 11 data erasure methods.
+
+**To erase data using** **Stellar Eraser for Mobile** **:**
+
+ 1\. Run **Stellar Eraser for Mobile** . Plug the iOS/Android device into the computer.
+
+ 2\. The **Devices**  tab lists all the attached iOS/Android devices. The screen which appears is displayed below:
+
+![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/device-tab.png)
+
+ A device message appears after its connection. **For example** : In the above screen, an Android device shows the message '**Turn On USB Debugging** '. To continue from this stage, USB Debugging must be allowed on the Android device's end. Similarly, for iOS devices '**Trust Device** ' message appears.
+
+**_Note_**   _: For more information, please refer to the section ' **[How to enable the USB Debugging mode in your phone?](https://tools.techidaily.com/stellardata-recovery/buy-now/)**  ' in the next topic of this user guide._
+
+ 3\. All the devices along with their information like process (**Erase** **)** , USB port name, type, progress bar, status, ECID/IMEI, and serial number are displayed. You can also see icons for connectivity status, SIM card status, and FMD (Find my device) locked/unlocked status.
+
+![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/devices-information.png)
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4\. You can preview the device's information either in **Grid view** ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/grid-view.png) or **List view** ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/list-view.png) .
+
+* In the **Grid view** , the devices get displayed in a grid-like structure, and also the devices can be sort using the **Sort By** option. The **Sort By** option allows sorting the devices based on the following information/criteria: USB ID, Name, Serial Number, Type, Size, ECID/IMEI, and Status.
+
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Stellar Help](https://tools.techidaily.com/stellardata-recovery/buy-now/).png)
+
+* In the **List view** , the devices get displayed in a list.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/Screenshot%202022-06-07%20at%209.17.52%20AM.png)
+
+ 5\. Double-clicking on any of the displayed devices will show the device information of the corresponding device.
+
+![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/device-info.png)
+
+ 6\. From the dialog that appears, click on **USB ID** to change the identifier for the USB port. A dailog box opens, enter the USB Port Identifire name in the text field and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/device-info-usb-id.png)
+
+ 7\. Select the devices to erase by marking the check-box before every device.
+
+**_Note_**   _: Mark **Select All** option to select every listed device for erasing._
+
+ 8\. From the bottom of the screen, select any one of the following erasure methods:
+
+| **Erasure Methods**                                      | **Description**                                                                                                                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NIST 800-88 Purge                                        | This algorithm wipes data by overwriting the HDD or SSD drives using the Cryptographic Erase (CE) of a Self-Encrypting Drive (SED).                                                                                                                                                                                                                              |
+| Native OS Erasure                                        | This is the default algorithm available to the users in the device's OS.                                                                                                                                                                                                                                                                                         |
+| Zeroes                                                   | This algorithm wipes data by overwriting it with zeros in a single pass. This is the fastest algorithm available to a user.                                                                                                                                                                                                                                      |
+| Pseudo-random (1 Pass)                                   | This algorithm wipes data by overwriting an entire device with randomly generated numbers in a single pass.                                                                                                                                                                                                                                                      |
+| US Department of Defense, DoD 5220.22-M (3 passes)       | This algorithm wipes data by overwriting the device in three passes. In the first pass, it overwrites data with zeros, then in the second pass, it overwrites the data with ones, and finally in the third pass overwrites the data with randomly generated bytes. This is a U.S. Department of Defense algorithm.                                               |
+| US Department of Defense, DoD 5200.22-M (ECE) (7 passes) | This algorithm wipes data by overwriting the device in seven passes. The first, fourth, and fifth pass are overwriting with a random byte, its 8 right-bit shift complement, and 16 right-bit shift complement; second and sixth passes are overwriting with zeros, and third and seventh pass with random data. This is a U.S. Department of Defense algorithm. |
+| B.Schneier's algorithm (7 passes)                        | This algorithm wipes data in seven passes. In the first two passes, it overwrites the device with ones and then zeros, and in the next five passes, it overwrites data with random characters.                                                                                                                                                                   |
+| Peter Gutmann (35 passes)                                | This algorithm wipes data by overwriting it 35 times, making recovery of the wiped data by any tool impossible. This algorithm takes more time than other wiping algorithms.                                                                                                                                                                                     |
+| US-Army AR 380-19 (3 passes)                             | This algorithm wipes data by overwriting the media in three passes. In the first pass, it overwrites data with random bytes, then in the second and third pass, it overwrites data with certain bytes and their complements. This is a U.S. Army algorithm.                                                                                                      |
+| US Air Force, AFSSI 5020(3 passes)                       | This algorithm wipes data by overwriting the media in three passes. First, it overwrites with zeros, then with ones, and finally with random characters.                                                                                                                                                                                                         |
+| British HMG IS5 (3 passes)                               | This algorithm is a three pass overwriting algorithm, first pass - with zeros, the second pass–with ones and the last pass with random data.                                                                                                                                                                                                                     |
+
+ 9\. Click **Start**  to start erasing the devices.
+
+**_Note:_**   _If you wish to erase a single device, you can start the process by simply clicking the play button in the middle._
+
+ 10\. A warning message appears asking to proceed to the erasure process. Click **Proceed** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/warning-proceed.png)
+
+**_Note:_**   _If you do not wish to see the warning message the next time you erase a device, select the **Don't Show Again** check-box._
+
+ The erase process for a device takes place in five different phases, to understand these phases refer to the next section of **[Erasure Stages](https://lightailing.sjv.io/k0ez0m)**  .
+
+ Copyright © Stellar Information Technology Private Limited. All right reserved.
+
+[Legal Notice](https://tools.techidaily.com/stellardata-recovery/buy-now/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing-for-2024/"><u>[New] 7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-beginners-pathway-start-your-sports-youtube-chain-on-macos-for-2024/"><u>[New] Beginner's Pathway  Start Your Sports YouTube Chain on macOS for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-premium-money-forecasting-aid-for-tiktok-artists/"><u>[New] In 2024, Premium Money Forecasting Aid for TikTok Artists</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-path-to-personalized-tiktok-hash-creation-for-2024/"><u>[New] The Path to Personalized TikTok Hash Creation for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-best-freebies-winning-windowsmac-video-tools/"><u>[Updated] 2024 Approved  Best Freebies  Winning Windows/Mac Video Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-haul-videography-unlocked-step-by-step-guide-for-enthusiasts/"><u>[Updated] Haul Videography Unlocked  Step-by-Step Guide for Enthusiasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-simplifying-screen-record-functions-on-iphone-7/"><u>[Updated] In 2024, Simplifying Screen Record Functions on iPhone 7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adapting-srt-to-sub-step-by-step-guide-and-tactics/"><u>2024 Approved  Adapting SRT to SUB  Step-by-Step Guide & Tactics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-exploring-whatsapp-voice-chat-features/"><u>2024 Approved  Exploring WhatsApp Voice Chat Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-prime-picks-for-effortless-screenshots/"><u>2024 Approved  Prime Picks for Effortless Screenshots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-convert-avis-into-gifs-via-filmora-software/"><u>2024 Approved  Step-by-Step Guide to Convert AVIs Into GIFs via Filmora Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/bitraser-erase-pro-reliable-hard-drive-cleaner-for-sale/"><u>BitRaser Erase Pro - Reliable Hard Drive Cleaner for Sale</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boosting-site-performance-using-cookiebot-solutions/"><u>Boosting Site Performance Using Cookiebot Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ceasing-screen-flash-in-displays/"><u>Ceasing Screen Flash in Displays</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-key-to-advanced-web-behavior-insights/"><u>Cookiebot: Your Key to Advanced Web Behavior Insights</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-best-algorithms-for-total-and-complete-data-deletion/"><u>Discover The Best Algorithms for Total and Complete Data Deletion</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effective-data-sanitization-strategies-insights-and-guides-from-the-experts-at-stellar/"><u>Effective Data Sanitization Strategies - Insights and Guides From the Experts at Stellar</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ensuring-complete-data-security-a-visual-guide-to-using-bitraser-for-enterprises/"><u>Ensuring Complete Data Security: A Visual Guide to Using BitRaser for Enterprises</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-with-elegance-discover-the-power-of-stellar-file-cleaner-windows-edition-your-reliable-solution-for-safe-data-removal/"><u>Erase with Elegance: Discover the Power of Stellar File Cleaner Windows Edition - Your Reliable Solution for Safe Data Removal</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/essential-7-techniques-to-securely-erase-digital-data-once-and-for-all/"><u>Essential 7 Techniques to Securely Erase Digital Data Once & For All</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/essential-enterprise-data-destruction-techniques-showcased-in-bitrasers-video-tutorial/"><u>Essential Enterprise Data Destruction Techniques Showcased in BitRaser's Video Tutorial</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-articles-and-best-practices-in-secure-data-wipe-by-stellar-experts/"><u>Expert Articles & Best Practices in Secure Data Wipe by Stellar Experts</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/get-bitraser-drive-eraser-now-reliable-usb-data-scrubber-for-everyone/"><u>Get BitRaser Drive Eraser Now - Reliable USB Data Scrubber for Everyone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlsx-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xlsx file document online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/immersion-in-the-most-realistic-water-games/"><u>Immersion in the Most Realistic Water Games</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/keep-your-mac-tidy-with-scheduled-file-and-folder-purges-try-stellar-file-eraser-5/"><u>Keep Your Mac Tidy with Scheduled File and Folder Purges: Try Stellar File Eraser 5!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-stellar-secure-delete-enhanced-data-wipe-with-easy-scheduled-cleanup/"><u>Mac Stellar Secure Delete: Enhanced Data Wipe with Easy Scheduled Cleanup</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-information-removal-expert-advice-from-stellar-blog/"><u>Mastering Information Removal: Expert Advice From Stellar Blog</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-organic-traffic-with-cookiebots-cutting-edge-seo-solutions/"><u>Maximize Organic Traffic with Cookiebot's Cutting-Edge SEO Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-your-pc-space-with-stellar-data-shredder-pro-windows-version/"><u>Maximize Your PC Space with Stellar Data Shredder Pro (Windows Version)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-best-options-expert-picks-from-top-9-free-logomakers-for-2024/"><u>Navigating Best Options  Expert Picks From Top 9 Free Logomakers for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/next-level-digital-hygiene-stellars-windows-standard-file-purging-suite-and-scheduler/"><u>Next-Level Digital Hygiene: Stellar's Windows Standard File Purging Suite & Scheduler</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/permanently-wipe-out-digital-clutter-with-these-proven-deletion-methods/"><u>Permanently Wipe Out Digital Clutter with These Proven Deletion Methods</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-privacy-efficiently-manage-file-deletion-on-windows-using-stellar-eraser-5/"><u>Secure Your Privacy: Efficiently Manage File Deletion on Windows Using Stellar Eraser 5</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/simplify-data-sanitization-enhanced-erasure-techniques-with-the-stellar-eraser-on-mac-and-smartphones/"><u>Simplify Data Sanitization: Enhanced Erasure Techniques with the Stellar Eraser on Mac and Smartphones</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202707982-standard-version-of-macs-top-rated-stellar-erase-set-your-own-deletion-timetable/"><u>Standard Version of Mac's Top-Rated Stellar Erase: Set Your Own Deletion Timetable</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-file-eraser-5-windows-standard-en-setting-scheduler-for/"><u>Stellar File Eraser 5 Windows Standard en Setting Scheduler For</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/take-your-online-presence-to-new-heights-the-secrets-in-the-cookiebot-magic/"><u>Take Your Online Presence to New Heights - The Secret's in the Cookiebot Magic</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-definitive-guide-to-the-standard-edition-of-stellar-eraser-on-your-iphone-and-ipad/"><u>The Definitive Guide to the Standard Edition of Stellar Eraser on Your iPhone and iPad</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-guide-to-linkedin-video-aspect-ratios-for-better-reach-for-2024/"><u>The Ultimate Guide to LinkedIn Video Aspect Ratios for Better Reach for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-guide-to-producing-professional-level-slow-motion-content-on-tiktok/"><u>The Ultimate Guide to Producing Professional-Level Slow Motion Content on TikTok</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963056193-updated-freeze-frame-clone-effect-is-a-creative-effect-to-use-for-many-video-creators-this-article-will-show-you-how-to-use-filmora-to-make-a-frozen-frame-c/"><u>Updated Freeze Frame Clone Effect Is a Creative Effect to Use for Many Video Creators. This Article Will Show You How to Use Filmora to Make a Frozen Frame Clone Video Effect for 2024</u></a></li>
+</ul></div>
