@@ -1,7 +1,7 @@
 ---
 title: Trusted iPhone Software for Permanently Clearing Out Private Files and Personal Details
-date: 2024-08-31T05:41:51.412Z
-updated: 2024-09-01T05:41:51.412Z
+date: 2024-09-04T07:17:55.816Z
+updated: 2024-09-05T07:17:55.816Z
 categories:
   - repair-tools
 description: This Article Describes Trusted iPhone Software for Permanently Clearing Out Private Files and Personal Details
@@ -72,21 +72,30 @@ STELLAR ERASER FOR IPHONE
 
 ![audio recovery](https://www.stellarinfo.com/public/image/catalog/v6/iphone/audio.png) ![call recovery](https://www.stellarinfo.com/public/image/catalog/v6/iphone/call.png) ![chat recovery](https://www.stellarinfo.com/public/image/catalog/v6/iphone/chat.png) ![gallery recovery](https://www.stellarinfo.com/public/image/catalog/v6/iphone/gallery.png) ![video recovery](https://www.stellarinfo.com/public/image/catalog/v6/iphone/video.png) ![Data recovery](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Data recovery](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Data recovery](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Erase All Types of Files on iOS Devices
 
 * Erases photos, videos, audios and other files from iPhone.
 * Permanently deletes personal & sensitive data from iOS devices.
 * Wipes third-party apps data, browser search history, & more.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ERASE iPhone DATA WITH 0% RECOVERY
 
 More Awesome Features
 
 ![Erase Data from all iOS Devices](https://www.stellarinfo.com/image/catalog/feature-icon/iPhone/eraser/Erase-Data-from-all-iOS-Devices.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Erase Data from all iOS Devices
 
  Stellar iPhone eraser wipes data from all variants of iPhone and iPad. It is compatible with the latest iPhone 15, 14, 13, 12, 11 Pro, XS MAX, XS, XR, X, 8, 7, and below. You can erase personal photos, videos, etc., from all iPads including iPad Mini, iPad Air and others. The software can also erase iPod touch data permanently.
@@ -94,7 +103,10 @@ More Awesome Features
 ![Erase iPhone Data Permanently](https://www.stellarinfo.com/image/catalog/feature-icon/iPhone/eraser/Erase-iPhone-Data-Permanently.png)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Erase iPhone Data Permanently
 
@@ -103,7 +115,10 @@ More Awesome Features
 ![Efficient Deleted Data Erasure](https://www.stellarinfo.com/image/catalog/feature-icon/iPhone/eraser/Efficient-Deleted-Data-Erasure.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Efficient Deleted Data Erasure
 
@@ -112,7 +127,16 @@ More Awesome Features
 ![Wipe Personal Data from iPhone](https://www.stellarinfo.com/image/catalog/feature-icon/iPhone/eraser/Wipe-Personal-Data-from-iPhone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Wipe Personal Data from iPhone
 
@@ -120,6 +144,12 @@ More Awesome Features
 
 Software Walkthrough
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Screenshots & Video
 
 **Step 3** : Click ‘OK’ to finish
@@ -127,7 +157,10 @@ Software Walkthrough
 ![Click ‘OK’ to finish](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-eraser/click-erase-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After erasing data, the ‘All data from the selected device erased successfully’ message appears.
 
@@ -135,15 +168,18 @@ Software Walkthrough
 
 ![Select “Device”](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-eraser/Erase-iPhone-Data-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select a connected device to ‘Erase iPhone Data.’
 
 **Step 2** : Erase and Re-Write Process
 
 ![Erase and Re-Write Process](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-eraser/select-ios-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The software will erase and re-write the data from a connected iOS device.
 
 **Step 3** : Click ‘OK’ to finish
@@ -151,7 +187,10 @@ Software Walkthrough
 ![Click ‘OK’ to finish](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-eraser/click-erase-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After erasing data, the ‘All data from the selected device erased successfully’ message appears.
 
@@ -159,12 +198,27 @@ Software Walkthrough
 
 ![Select “Device”](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-eraser/Erase-iPhone-Data-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select a connected device to ‘Erase iPhone Data.’
 
 [video wrapper play Watch Video How to use STELLAR ERASER FOR IPHONE](https://www.stellarinfo.com/images/v7/video-wrapper.png) ![play](https://www.stellarinfo.com/public/image/catalog/v6/play.png) Watch Video How to use STELLAR ERASER FOR IPHONE ](https://www.stellarinfo.com/#register-modalv)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 AWARDS & REVIEWS
 
@@ -174,22 +228,36 @@ AWARDS & REVIEWS
 
 ![Wheon](https://www.stellarinfo.com/public/image/catalog//Wheon-Logo.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Wheon
 
  Stellar Eraser for iPhone is a leading data erasure software that permanently wipes any photos, videos, contacts, chats, documents, or other confidential data stored in your iPhone.
 
 ![iLounge](https://www.stellarinfo.com/image/catalog/blacktheme/iPhone-Data-Recovery-Mac/awards/ilounge.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 iLounge
 
  Stellar Eraser is billed as ‘the best iPhone Data Eraser Tool’ around. Basically, it’s an app that you can use to wipe all your personal data to stop potential data leaks from happening.
 
 ![iGeeksBlog](https://www.stellarinfo.com/public/image/catalog//IGB_Logo.jpg) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 iGeeksBlog
 
  And just like that, your iPhone is completely wiped out, and retrieving any information from it is almost impossible.
@@ -208,10 +276,28 @@ iLounge
 
 DATA SHEET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Technical Specifications
 
 ![About Product](https://www.stellarinfo.com/images/stellar-eraser-for-iphone.svg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 About Product
 
 **Stellar Eraser for iPhone**
@@ -235,15 +321,9 @@ Documents
 
 | [InstallationGuide Installation](https://www.stellarinfo.com/public/image/catalog/v6/InstallationGuide.svg) Installation](https://www.stellarinfo.com/pdf/installation-uninstallation/installation.php?product%5Fid=788) [UserManual Uninstallation](https://www.stellarinfo.com/public/image/catalog/v6/UserManual.svg) Uninstallation](https://www.stellarinfo.com/pdf/installation-uninstallation/uninstallation.php?product%5Fid=788) [![knowledgebase](https://www.stellarinfo.com/public/image/catalog/v6/EULA.svg) EULA](<https://www.stellarinfo.com/>                <https://www.stellarinfo.com/installation-uninstallation/eula%5Feng.pdf>) | [![UserManual](https://www.stellarinfo.com/public/image/catalog/v6/UserManual.svg) User Manual](https://tools.techidaily.com/stellardata-recovery/buy-now/) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 USEFUL ARTICLES
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Product Related Articles
 
  How to Factory Reset iPhone and iPad Without Apple ID
@@ -266,9 +346,6 @@ How to Wipe iPhone Data Permanently?
 
 FIND YOUR ANSWERS
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### FAQ
 
 [Do I need to have 'iTunes' installed on my PC to use iPhone Data Cleaner App?](https://www.stellarinfo.com/#collapseOne)
@@ -337,10 +414,6 @@ Awards Received
 * [TUV SUD ISO 9001](https://www.stellarinfo.com/images/v7/tuv2.png) ](https://www.stellarinfo.com/images/v7/ISO-9001-2008Certificate.pdf)
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Stellar Official Website
 
@@ -402,13 +475,7 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
