@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"data-safeguard.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-04'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-09'>
                 
                     
-                        <a href="/unlock-personalized-potential-on-your-site-with-cookiebot-integration/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unlock Personalized Potential on Your Site with Cookiebot Integration</span>
+                        <a href="/expert-picks-for-the-finest-image-restoration-firms-2024-guide-proscons/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Expert Picks for the Finest Image Restoration Firms - 2024 Guide (Pros/Cons)</span>
                         </a>
                     
               
                 
                     
-                        <a href="/guaranteed-data-restoration-tools-for-iphones-no-more-worries/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Guaranteed Data Restoration Tools for iPhones - No More Worries</span>
+                        <a href="/smart-marketing-solutions-the-power-of-cookiebot-integration/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Smart Marketing Solutions: The Power of Cookiebot Integration</span>
                         </a>
                     
               
                 
                     
-                        <a href="/harnessing-the-strength-of-cookiebot-for-enhanced-seo/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Harnessing the Strength of Cookiebot for Enhanced SEO</span>
+                        <a href="/forgot-your-ios-device-code-learn-the-secure-methods-of-restoring-your-iphone/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Forgot Your iOS Device Code? Learn the Secure Methods of Restoring Your iPhone</span>
                         </a>
                     
               
                 
                     
-                        <a href="/revolutionize-your-web-analytics-with-cookiebots-cutting-edge-tools/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Revolutionize Your Web Analytics with Cookiebot&#39;s Cutting-Edge Tools</span>
+                        <a href="/securing-the-best-deal-on-stellar-repair-for-photo-8-software-for-windows-users/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Securing the Best Deal on Stellar Repair for Photo 8 Software for Windows Users</span>
                         </a>
                     
               
                 
                     
-                        <a href="/get-your-corrupted-images-fixed-for-free-with-top-photo-recovery-software/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Get Your Corrupted Images Fixed for Free with Top Photo Recovery Software</span>
+                        <a href="/mastering-iphone-recovery-a-step-by-step-guide-to-using-stellar-without-a-previous-backup/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Mastering iPhone Recovery: A Step-by-Step Guide to Using Stellar without a Previous Backup</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-the-best-in-image-restoration-top-10-picks-with-insightful-comparisons/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover the Best in Image Restoration: Top 10 Picks with Insightful Comparisons</span>
+                        <a href="/iueuupluswdjplussruatoplusocueocreodqpluswqkes4ijog44k544og44op44oq44kiic0g6ycf44ke44gl44gq6lo85ywl5pa55rovig/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">画像修正スキル向上: ステラリア - 速やかな購入方法</span>
                         </a>
                     
               
                 
                     
-                        <a href="/transform-your-images-with-photo-8-for-windows-start-your-free-trial/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Transform Your Images with Photo 8 for Windows - Start Your Free Trial!</span>
+                        <a href="/optimized-audience-targeting-powered-by-advanced-cookiebot-tech/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Optimized Audience Targeting Powered by Advanced Cookiebot Tech</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ultimate-iphone-data-recovery-solutions-protect-your-memories-now/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ultimate iPhone Data Recovery Solutions - Protect Your Memories Now</span>
+                        <a href="/find-your-missing-iphone-memories-on-mac-with-advanced-data-recovery-software/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Find Your Missing iPhone Memories on Mac with Advanced Data Recovery Software</span>
                         </a>
                     
               
                 
                     
-                        <a href="/enhanced-data-tracking-with-cookiebot-technology/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Enhanced Data Tracking with Cookiebot Technology</span>
+                        <a href="/cookiebot-solutions-for-superior-website-analytics/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Cookiebot Solutions for Superior Website Analytics</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-ultimate-guide-to-total-iphone-reset-from-windows-and-mac-systems-stellar/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Ultimate Guide to Total iPhone Reset From Windows and Mac Systems (Stellar)</span>
+                        <a href="/leading-ios-data-sanitization-solutions-top-10-options-to-remove-personal-information/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Leading iOS Data Sanitization Solutions - Top 10 Options to Remove Personal Information</span>
                         </a>
                     
               
