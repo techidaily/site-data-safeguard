@@ -1,7 +1,7 @@
 ---
 title: Retrieving Personal Information From an iDevice After Performing a Factory Reset
-date: 2024-09-09T03:20:15.715Z
-updated: 2024-09-10T03:20:15.715Z
+date: 2024-09-09T16:19:47.040Z
+updated: 2024-09-14T18:23:47.119Z
 categories:
   - repair-tools
 description: This Article Describes Retrieving Personal Information From an iDevice After Performing a Factory Reset
@@ -9,18 +9,6 @@ excerpt: This Article Describes Retrieving Personal Information From an iDevice 
 thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7e4121c0d057d3f42a0a988f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Retrieving Personal Information From an iDevice After Performing a Factory Reset
 
 skb409
@@ -29,28 +17,10 @@ skb409
 
 ![date](https://www.stellarinfo.com/support/kb/asset/frontend/images/date.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Date published18 Jul 2016
 
 ![date](https://www.stellarinfo.com/support/kb/asset/frontend/images/view.png)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Views20261
 
  If you detect anything anomalous on your iPhone, you may need to reset it to factory settings. However, after a factory reset, you will lose all the data stored in your device. You will not be able to access your contact list, call logs, or messages, be it your imessages, WhatsApp, etc.**But, why restore your iPhone** ?
@@ -111,18 +81,6 @@ Related Articles
 * [TUV SUD ISO 9001](https://www.stellarinfo.com/images/v7/tuv2.png) ](https://www.stellarinfo.com/images/v7/ISO-9001-2008Certificate.pdf)
 * ![NIST](https://www.stellarinfo.com/images/v7/nist.png)
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Stellar Official Website
 
@@ -184,26 +142,12 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 * ![Notron](https://www.stellarinfo.com/images/v7/notron.png)
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,63 +158,24 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/error-fixing-unable-to-add-hp-d1360-drivers-in-windows-oses/"><u>[Error Fixing] Unable to Add HP D1360 Drivers in Windows OSes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-dissecting-tseries-profit-generation-through-youtube-videos-for-2024/"><u>[New] Dissecting TSeries' Profit Generation Through YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premier-digital-hubs-seamless-ringtones-acquisition/"><u>[New] Premier Digital Hubs  Seamless Ringtones Acquisition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-avoid-stress-with-these-easy-to-follow-ipad-screen-saving-methods-for-2024/"><u>[Updated] Avoid Stress with These Easy-to-Follow iPad Screen Saving Methods for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cost-efficient-pc-video-harvesters/"><u>[Updated] Cost-Efficient PC Video Harvesters</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-enhance-clarity-in-social-video-downloads-for-smartphonestablets-for-2024/"><u>[Updated] Enhance Clarity in Social Video Downloads for Smartphones/Tablets for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-freepaid-audio-cleanup-tools-for-higher-video-quality-for-2024/"><u>[Updated] Free/Paid Audio-Cleanup Tools for Higher Video Quality for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-breaking-the-monotony-infusing-novelty-in-ppt-voiceovers/"><u>[Updated] In 2024, Breaking the Monotony  Infusing Novelty in PPT Voiceovers</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-optimal-gear-for-enhanced-live-video-quality/"><u>[Updated] Optimal Gear for Enhanced Live Video Quality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-win10-screen-snapshot-maker-pro/"><u>[Updated] Win10 Screen Snapshot Maker Pro</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-facebook-chronicles-with-gratuitous-upgrades/"><u>2024 Approved  Elevate Your Facebook Chronicles with Gratuitous Upgrades</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-programs-for-vector-drawing-and-design-mastery/"><u>2024 Approved  Ideal Programs for Vector Drawing and Design Mastery</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-safe-mode-and-pip-features-on-iphone-ipad-and-macos/"><u>2024 Approved  Navigating Safe Mode and PIP Features on iPhone, iPad & MacOS</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/bypass-iphone-security-how-to-erase-and-restore-without-knowing-your-password/"><u>Bypass iPhone Security: How to Erase and Restore Without Knowing Your Password</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cant-access-your-phone-quick-tips-for-resetting-an-idevice-when-you-forgot-the-passcode/"><u>Can't Access Your Phone? Quick Tips for Resetting an iDevice When You Forgot the Passcode</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-iphone-file-restoration-for-mac-bring-back-deleted-images-videos-and-contact-info/"><u>Complete iPhone File Restoration for Mac: Bring Back Deleted Images, Videos & Contact Info</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-restoration-of-your-iphone-using-stellar-a-comprehensive-tutorial/"><u>Complete Restoration of Your iPhone Using Stellar – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-integration-elevate-your-marketing-automation-game/"><u>Cookiebot Integration: Elevate Your Marketing Automation Game</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-custom-user-experiences/"><u>Cookiebot-Enabled Custom User Experiences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/craft-secure-quick-access-button-in-windows-11-for-hardware-unhook/"><u>Craft Secure, Quick Access Button in Windows 11 for Hardware Unhook</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-the-leading-sms-recovery-software-for-iphone-devices/"><u>Discover the Leading SMS Recovery Software for iPhone Devices</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-website-traffic-experience-the-power-of-cookiebot-precision/"><u>Elevate Website Traffic: Experience the Power of Cookiebot Precision</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-site-insights-with-cookiebot-technology/"><u>Enhanced Site Insights with Cookiebot Technology</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-web-experience-with-the-help-of-cookiebot-technology/"><u>Enhanced Web Experience with the Help of Cookiebot Technology</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-with-dynamic-retargeting-backed-by-cookiebot-technology/"><u>Enhanced with Dynamic Retargeting - Backed by Cookiebot Technology</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhancing-data-tracking-with-cookiebots-advanced-features/"><u>Enhancing Data Tracking With Cookiebot's Advanced Features</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhancing-web-presence-with-cookiebot-technology/"><u>Enhancing Web Presence with Cookiebot Technology</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-advanced-marketing-automation-by-cookiebot/"><u>Experience Advanced Marketing Automation by Cookiebot</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-next-level-tracking-accuracy-through-our-partnership-with-cookiebot/"><u>Experience Next-Level Tracking Accuracy Through Our Partnership with Cookiebot</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-picks-the-most-effective-photo-rescue-programs-to-restore-corrupted-images/"><u>Expert Picks: The Most Effective Photo Rescue Programs to Restore Corrupted Images</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-tips-on-securely-getting-back-your-lost-iphone-photos-a-comprehensive-guide/"><u>Expert Tips on Securely Getting Back Your Lost iPhone Photos - A Comprehensive Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/find-and-fix-photos-like-a-pro-with-top-image-restoration-programs/"><u>Find & Fix Photos Like a Pro with Top Image Restoration Programs</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/fixcorruptedimages-pro-ultimate-solution-for-restoring-damaged-jpegs/"><u>FixCorruptedImages Pro: Ultimate Solution for Restoring Damaged JPEGs</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/get-stellar-pix-pilot-8-the-ultimate-solution-for-image-repair-on-windows/"><u>Get Stellar Pix-Pilot 8: The Ultimate Solution for Image Repair on Windows!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/guide-steps-to-wipe-all-information-from-your-iphoneipad-via-a-distance/"><u>Guide: Steps to Wipe All Information From Your iPhone/iPad via a Distance</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-sony-xperia-1-v-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Sony Xperia 1 V Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-note-12t-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi Note 12T Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-create-an-affordable-projector-screen-from-scratch/"><u>How to Create an Affordable Projector Screen From Scratch</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-reno-11f-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 11F 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-retrieve-accidentally-erased-notes-from-your-iphone-using-specialized-software/"><u>How to Retrieve Accidentally Erased Notes From Your iPhone Using Specialized Software</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-revive-and-resume-control-over-your-stuck-iphone-effective-troubleshooting-techniques/"><u>How to Revive & Resume Control Over Your Stuck iPhone: Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a38-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-14-plus-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 14 Plus With or Without Password</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-step-by-step-guide-for-vintage-photo-conversion-and-storage/"><u>In 2024, The Step-by-Step Guide for Vintage Photo Conversion & Storage</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimized-website-engagement-through-cookiebot-integration/"><u>Optimized Website Engagement Through Cookiebot Integration</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revive-deleted-messages-in-seconds-top-8-iphone-messenger-rescue-tools-unveiled/"><u>Revive Deleted Messages in Seconds: Top 8 iPhone Messenger Rescue Tools Unveiled</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-and-easy-top-software-picks-for-iphone-contact-data-restoration/"><u>Secure & Easy: Top Software Picks for iPhone Contact Data Restoration</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-instructions-for-remote-data-wipe-on-apple-devices/"><u>Step-by-Step Instructions for Remote Data Wipe on Apple Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/story-1-the-misguided-belief-in-randomized-controlled-trials/"><u>Story 1: The Misguided Belief in Randomized Controlled Trials</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-xr-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone XR You Should Try Out</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-ultimate-walkthrough-for-using-stellar-repair-v8-in-windows-environments/"><u>The Ultimate Walkthrough for Using Stellar Repair v8 in Windows Environments</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-lava-storm-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Lava Storm 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-protect-your-macs-privacy-by-learning-drive-encryption-and-restoration-methods/"><u>Ultimate Guide: Protect Your Mac's Privacy by Learning Drive Encryption and Restoration Methods</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-resolving-the-attempting-data-recovery-cycle-on-your-iphone/"><u>Ultimate Guide: Resolving the 'Attempting Data Recovery' Cycle on Your iPhone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-potential-with-cookiebots-intuitive-analytics-and-retargeting-tools/"><u>Unlocking Potential with Cookiebot's Intuitive Analytics and Retargeting Tools</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-quik-but-not-quick-enough-a-review-and-pc-alternatives-for-faster-video-editing/"><u>Updated 2024 Approved Quik, But Not Quick Enough? A Review & PC Alternatives for Faster Video Editing</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/website-personalization-through-cookiebot-seo-solutions/"><u>Website Personalization Through Cookiebot SEO Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-access-yt-comments-desktopiosandroid-edition-explained/"><u>[New] In 2024, Access YT Comments Desktop/iOS/Android Edition Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tiktok-hits-twitters-viral-top-10-list/"><u>[New] In 2024, TikTok Hits Twitter's Viral Top 10 List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-checklist-for-zoom-recording-for-2024/"><u>[New] The Ultimate Checklist for Zoom Recording for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-digital-solutions-the-cookiebot-experience/"><u>Enhanced Digital Solutions: The Cookiebot Experience</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-customized-visitor-journeys-using-cookiebot/"><u>Harness the Power of Customized Visitor Journeys Using Cookiebot</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-factory-reset-an-iphone-and-remove-personal-data/"><u>How to Factory Reset an iPhone and Remove Personal Data</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-v27-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo V27 Pro Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-11-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme 11 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/age-timestamps-tactics-to-skyrocket-video-views-for-2024/"><u>Leverage Timestamps Tactics to Skyrocket Video Views for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-x50i-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor X50i</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/rebuild-lost-memories-with-confidence-powerful-iphone-data-recovery-systems/"><u>Rebuild Lost Memories with Confidence: Powerful iPhone Data Recovery Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-subscribers-manual-engaging-on-social-media-platforms-for-2024/"><u>The Subscriber's Manual Engaging on Social Media Platforms for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
