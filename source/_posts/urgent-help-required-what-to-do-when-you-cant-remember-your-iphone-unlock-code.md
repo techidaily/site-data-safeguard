@@ -1,7 +1,7 @@
 ---
 title: "Urgent Help Required: What To Do When You Can't Remember Your iPhone Unlock Code?"
-date: 2024-09-08T16:51:02.053Z
-updated: 2024-09-14T20:24:23.783Z
+date: 2024-09-18T09:13:25.501Z
+updated: 2024-09-20T04:38:14.155Z
 categories:
   - repair-tools
 description: "This Article Describes Urgent Help Required: What To Do When You Can't Remember Your iPhone Unlock Code?"
@@ -99,6 +99,13 @@ Table of Content
 
 ![click Restore and Update](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY1Njo2OTI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzUwIDQ4MiIgd2lkdGg9IjM1MCIgaGVpZ2h0PSI0ODIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 3: Erase your iPhone via iCloud if you forgot the Passcode**
 
  If you forgot your iPhone passcode, you can use the iCloud website to erase your device. However, remember this method will only work if the**‘Find My’** feature is enabled on your iPhone.
@@ -108,13 +115,6 @@ Table of Content
 * Open iCloud.com/find in your system’s web browser. Enter the Apple ID and password as that of the iPhone.
 
 ![sign in with Apple ID](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY1ODo2ODk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjUwIDQ1NyIgd2lkdGg9IjY1MCIgaGVpZ2h0PSI0NTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Select **All Devices** and click on your **iPhone** that you wish to erase.
 
@@ -126,16 +126,16 @@ Table of Content
 
 ![Erase iPhone](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY2Mjo2ODQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjUwIDQ3NSIgd2lkdGg9IjY1MCIgaGVpZ2h0PSI0NzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Again, click**Erase** to confirm.
 
 ![click Erase](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY2NDo2ODM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjUwIDQzOCIgd2lkdGg9IjY1MCIgaGVpZ2h0PSI0MzgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Enter**Apple ID** and**password** to verify your identity. Click**Trust** when a**‘Do you trust this browser’** pop-up appears. Next, enter your **phone number** and click **Next** .
 
@@ -145,26 +145,19 @@ Table of Content
 
 ![add your message](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY2ODo2ODg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzI0IDMwMSIgd2lkdGg9IjMyNCIgaGVpZ2h0PSIzMDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Once done, your iPhone is erased clean, and now you can set it up again using the same Apple ID.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -199,6 +192,13 @@ Table of Content
 
 ![No](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY5OToxMTg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjYiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) NO
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -214,16 +214,16 @@ Table of Content
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-cutting-edge-techniques-to-boost-your-facebook-stories-reach-and-engagement-for-2024/"><u>[New] Cutting-Edge Techniques to Boost Your Facebook Stories' Reach and Engagement for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-maximize-visual-potential-the-finest-overlays-on-androidiphone/"><u>[Updated] Maximize Visual Potential – The Finest Overlays on Android/iPhone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagram-the-art-of-rewinding-videos/"><u>2024 Approved Mastering Instagram The Art of Rewinding Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-configure-your-email-preferences-and-safelist-a-site-on-apples-mail-client-for-mac/"><u>How To Configure Your Email Preferences and Safelist a Site on Apple's Mail Client for Mac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leading-image-repair-applications-for-fixing-broken-pictures/"><u>Leading Image Repair Applications for Fixing Broken Pictures</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/origin-wont-go-online-fixed/"><u>Origin Won’t Go Online [FIXED]</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/photo-rescue-success-introducing-stellars-pioneering-recovery-and-repair-solution/"><u>Photo Rescue Success - Introducing Stellar's Pioneering Recovery & Repair Solution</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-repair-immediate-purchase-opportunity-for-your-photography-needs/"><u>Stellar Repair: Immediate Purchase Opportunity for Your Photography Needs</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-rated-tools-for-restoring-lost-iphone-contacts-efficiently/"><u>Top Rated Tools for Restoring Lost iPhone Contacts Efficiently</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-3-simple-methods-to-burn-your-favorite-videos-to-dvd-on-windows-and-mac-for-2024/"><u>Updated 3 Simple Methods to Burn Your Favorite Videos to DVD on Windows and Mac for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-instagram-follower-dilemrancy-guide-for-2024/"><u>[Updated] The Instagram Follower Dilemrancy Guide for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-from-ordinary-to-outstanding-making-effortless-slow-motion-videos-in-android/"><u>2024 Approved From Ordinary to Outstanding Making Effortless Slow-Motion Videos in Android</u></a></li>
+<li><a href="https://program-issues.techidaily.com/age-of-empires-iv-trouble-unlock-winning-fixes-to-get-your-game-running-smoothly/"><u>Age of Empires IV Trouble? Unlock Winning Fixes to Get Your Game Running Smoothly</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-integration-elevate-your-websites-rankings-and-traffic/"><u>Cookiebot Integration: Elevate Your Website’s Rankings and Traffic</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-propelling-performance-the-efficient-way/"><u>Cookiebot Propelling Performance: The Efficient Way!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-key-to-advanced-audience-targeting-and-personalization/"><u>Cookiebot: The Key to Advanced Audience Targeting and Personalization</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tips-to-overcome-the-stubborn-attempting-to-restore-issue-on-iphones/"><u>Expert Tips to Overcome the Stubborn 'Attempting to Restore' Issue on iPhones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improved-microsoft-battery-management-drivers-aligning-with-advanced-configuration-and-power-interface-protocols/"><u>Improved Microsoft Battery Management Drivers Aligning With Advanced Configuration and Power Interface Protocols</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-resolution-for-non-functioning-airdrop-effortless-solutions-explained/"><u>Quick Resolution for Non-Functioning AirDrop: Effortless Solutions Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-conversores-h265hevc-opciones-inigualables-para-windows-mac-y-dispositivos-en-linea-en-2023/"><u>Top Conversores H.265/HEVC: Opciones Inigualables Para Windows, MAC Y Dispositivos en Línea en 2023</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-rated-apps-for-retrieving-lost-iphone-contact-information/"><u>Top Rated Apps for Retrieving Lost iPhone Contact Information</u></a></li>
 </ul></div>
 

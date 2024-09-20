@@ -1,7 +1,7 @@
 ---
 title: Smooth Gaming on Your PC with These Fixes for WRC 10, the Official FIA World Rally Championship.
-date: 2024-09-08T01:35:54.744Z
-updated: 2024-09-14T19:33:33.448Z
+date: 2024-09-18T07:00:40.133Z
+updated: 2024-09-20T09:20:35.996Z
 tags:
   - win11
   - win10
@@ -75,25 +75,32 @@ If this method doesn’t work, try the next solution.
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -105,14 +112,14 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
@@ -124,26 +131,19 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
@@ -182,20 +182,20 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-starting-with-nfts-your-no-stress-guide/"><u>[Updated] Starting with NFTs Your No-Stress Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-9-stealthy-pro-tools-tricks-for-novice-designers/"><u>2024 Approved 9 Stealthy Pro Tools Tricks for Novice Designers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cant-remember-your-iphone-password-guide-to-removing-all-data-securely/"><u>Can't Remember Your iPhone Password? Guide to Removing All Data Securely</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-iphone-fixer-kit-comprehensive-solutions-for-all-your-ios-issues/"><u>Complete iPhone Fixer Kit: Comprehensive Solutions for All Your iOS Issues</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/diy-photo-restoration-software-to-recover-and-repair-photos/"><u>DIY Photo Restoration Software to Recover & Repair Photos</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-next-level-data-collection-and-targeting-powered-by-cookiebot/"><u>Experience Next-Level Data Collection and Targeting Powered by Cookiebot</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/global-cloud-savings-summary-comparing-and-choosing-the-cheapest/"><u>Global Cloud Savings Summary Comparing and Choosing the Cheapest</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-reno-10-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Reno 10 5G Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-cutting-edge-finding-the-top-5-titling-professionals-online/"><u>In 2024, The Cutting Edge Finding the Top 5 Titling Professionals Online</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-unlock-higher-engagement-the-power-of-precise-timestamping/"><u>In 2024, Unlock Higher Engagement The Power of Precise Timestamping</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leading-iphone-contact-restoration-tools-bring-back-your-deleted-phone-buddies/"><u>Leading iPhone Contact Restoration Tools – Bring Back Your Deleted Phone Buddies</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-strategies-to-salvage-deteriorated-jpeg-images-with-cutting-edge-solutions/"><u>Step-by-Step Strategies to Salvage Deteriorated JPEG Images with Cutting-Edge Solutions</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-definitive-technique-for-permanent-iphone-cleanup-insider-methods/"><u>The Definitive Technique for Permanent iPhone Cleanup | Insider Methods</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-pioneering-avengers-the-marvellous-world-builders/"><u>[New] 2024 Approved Pioneering Avengers The Marvellous World-Builders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-science-behind-sharing-memes-unveiled/"><u>[New] 2024 Approved The Science Behind Sharing Memes Unveiled</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-high-quality-android-photoshoppers/"><u>[Updated] 2024 Approved High-Quality Android Photoshoppers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-picks-for-the-finest-image-restoration-firms-2024-guide-proscons/"><u>Expert Picks for the Finest Image Restoration Firms - 2024 Guide (Pros/Cons)</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expertly-reviving-memories-a-look-at-the-best-photo-restoration-solutions-including-their-strengths-and-weaknesses/"><u>Expertly Reviving Memories: A Look at the Best Photo Restoration Solutions , Including Their Strengths and Weaknesses</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/get-your-images-back-on-track-with-photo-fix-pro-for-windows/"><u>Get Your Images Back on Track with Photo-Fix Pro for Windows!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-12-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi 12 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nubia-red-magic-8s-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nubia Red Magic 8S Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-superfast-fb-downloader-mp4-files-in-minutes/"><u>In 2024, SuperFast FB Downloader MP4 Files in Minutes</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/innovative-personalization-made-easy-the-cookiebot-advantage-for-seo-success/"><u>Innovative Personalization Made Easy: The Cookiebot Advantage for SEO Success</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimized-using-next-gen-bot-tools-by-cookiemaster/"><u>Optimized Using Next-Gen Bot Tools by CookieMaster</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722859481291-professional-tricks-how-to-insert-customized-lines-in-microsoft-word/"><u>Professional Tricks: How to Insert Customized Lines in Microsoft Word</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/protect-your-privacy-best-iphone-software-for-wiping-personal-information/"><u>Protect Your Privacy: Best iPhone Software for Wiping Personal Information</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/seamless-picture-refresh-top-software-picks-to-bring-your-images-back-to-life/"><u>Seamless Picture Refresh: Top Software Picks to Bring Your Images Back to Life</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Phantom V Fold? | Dr.fone</u></a></li>
 </ul></div>
 
