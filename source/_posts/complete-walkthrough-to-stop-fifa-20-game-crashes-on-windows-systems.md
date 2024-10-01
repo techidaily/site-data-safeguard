@@ -1,7 +1,7 @@
 ---
 title: Complete Walkthrough to Stop FIFA 20 Game Crashes on Windows Systems
-date: 2024-08-27T03:44:12.848Z
-updated: 2024-08-28T03:44:12.848Z
+date: 2024-09-25T16:05:07.682Z
+updated: 2024-10-01T16:19:55.137Z
 tags:
   - win11
   - win10
@@ -45,13 +45,23 @@ Just follow the steps below to verify integrity of game files:
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  After the the verifying process is complete, launch WWE 2K22 to see if it crashes again. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update graphics driver
 
  The broken or outdated graphics driver may also be the main culprit behind the game crashing issues.
@@ -77,6 +87,13 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 Or
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -113,6 +130,13 @@ Or
 
  Launch WWE 2K22 and see if the game crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Install the latest DirectX files
 
  Most games require DirectX 12 to run properly, and WWE 2K22 is no exception. WWE 2K22 would crash on startup if there’s a problem with DirectX on your PC.
@@ -123,13 +147,18 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and launch the game.
 
  See if WWE 2K22 crashes again after you installed the latest DirectX file. If this fix didn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Stop overclocking
 
  Overclocking the CPU or turbo boost the graphics card may gain a better FPS. However, it often crashes the game. To reduce the frequency of game crashing issues, it’s suggested that you reset the CPU or the graphics card to the manufacturer specifications.
@@ -138,9 +167,6 @@ Or
 
  See this issue persists after you stopped overclocking. If this fix didn’t help, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Disable Steam Overlay
 
  Overlays are handy, but sometimes they would interfere with the game and even block the game files, leading to the game crashing issues.
@@ -150,21 +176,33 @@ Or
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _WWE 2K22_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
  If you’re using other apps with overlay features (e.g. Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
  Launch WWE 2K22 and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 7: Disable third-party antivirus software
 
  Many third-party antivirus software block game files, which means that third-party antivirus software may also crash the game.
@@ -187,8 +225,6 @@ Or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +232,22 @@ Or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-learn-to-master-character-voice-customization-the-ultimate-guide-to-transforming-in-game-speech-free/"><u>[Updated] Learn to Master Character Voice Customization The Ultimate Guide to Transforming In-Game Speech (Free)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premiere-toolkit-for-app-introduction-edits/"><u>[Updated] Premiere Toolkit for App Introduction Edits</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-empowerment-elevating-your-online-presence-effectively/"><u>Cookiebot Empowerment: Elevating Your Online Presence Effectively</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-online-presence-with-next-gen-tech-from-cookiebot/"><u>Elevate Online Presence with Next-Gen Tech From Cookiebot</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/emerging-from-iphone-stuck-at-data-recovery-phase-tips-and-solutions/"><u>Emerging From iPhone Stuck at ‘Data Recovery’ Phase: Tips & Solutions</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/gratuit-verbale-konvertor-aiff-naar-wmv-onlinelastig/"><u>Gratuit Verbale Konvertor: Aiff Naar Wmv - Onlinelastig</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/guida-pratica-alla-conversione-di-file-hevc-in-mp4-senza-compromettere-la-qualita-visiva/"><u>Guida Pratica Alla Conversione Di File HEVC in MP4 Senza Compromettere La Qualità Visiva</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-c12-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia C12 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-itel-a60-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Itel A60 Data? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/order-photoshop-cs8-standard-professional-image-editing-and-restoration/"><u>Order Photoshop CS8 Standard: Professional Image Editing & Restoration</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-software-selection-for-professional-quality-picture-restoration/"><u>Ultimate Software Selection for Professional-Quality Picture Restoration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unable-to-install-ios-updates-on-iphoneipad-here-are-9-troubleshooting-steps/"><u>Unable to Install iOS Updates on iPhone/iPad? Here Are 9 Troubleshooting Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-limitless-space-choose-from-top-20-free-cloud-providers-for-2024/"><u>Unlock Limitless Space Choose From Top 20 Free Cloud Providers for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-secret-to-restoring-iphones-without-a-previous-backup-using-stellar-tools/"><u>Unlock the Secret to Restoring iPhones Without a Previous Backup Using Stellar Tools</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-data-recovery-options-following-an-iphone-factory-restoration-procedure/"><u>Unlocking Data Recovery Options Following an iPhone Factory Restoration Procedure</u></a></li>
+</ul></div>
 
