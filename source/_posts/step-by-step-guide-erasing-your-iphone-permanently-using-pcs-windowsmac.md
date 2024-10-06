@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Erasing Your iPhone Permanently Using PCs (Windows/Mac)"
-date: 2024-08-27T03:34:36.247Z
-updated: 2024-08-28T03:34:36.247Z
+date: 2024-10-03T18:03:01.210Z
+updated: 2024-10-06T18:46:27.330Z
 categories:
   - repair-tools
 description: "This Article Describes Step-by-Step Guide: Erasing Your iPhone Permanently Using PCs (Windows/Mac)"
@@ -60,6 +60,13 @@ Table of Content
 
 ![Select Erase Data option in Stellar Toolkit for iPhone](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTYzMDo3ODc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU0NyIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NDciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now, click**Next** on the Erase iPhone Data screen.
 
 ![Click Next in Stellar Toolkit for iPhone](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTYzMjo3NjI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU0MSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
@@ -72,15 +79,26 @@ Table of Content
 
 ![Confirm Erase  in Stellar Toolkit for iPhone to wipe an iPhone](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTYzNjo5MDQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU0MSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Once the process finishes, click**OK** in the**Data Erase Complete** box.
 
 ![Click OK in  in Stellar Toolkit for iPhone to wipe an iphone](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTYzODo5MjI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU0NyIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NDciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your iPhone now is completely wiped and all your personal data and settings are removed from it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **How to Wipe Your iPhone Via iTunes?**
 
  Connect your iPhone to Windows or Mac system and then enter the Recovery Mode to wipe your device clean. This method is ideal for situations where you have forgotten your Apple ID password.
@@ -94,23 +112,21 @@ Table of Content
 
 ![click Restore](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY1Mjo2NzA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDQ3MSIgd2lkdGg9IjMwMCIgaGVpZ2h0PSI0NzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 * If you don’t see the pop-up window, open the**iTunes** or**Finder** window, select your**iPhone** , and click the**Restore** **iPhone** option.
 
 ![click Restore iPhone in iTunes screen](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY1NDo4MDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDM3NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 * Next, click the**Restore and Update** option. It might take a while for iPhone to reset, however, don’t disconnect your iPhone from the computer until the reset process is completed.
 
 ![Click Restore and Update in iTunes](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY1Njo2OTA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzUwIDQ4MiIgd2lkdGg9IjM1MCIgaGVpZ2h0PSI0ODIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **How to Wipe out iPhone Via iCloud?**
 
  If you have lost your iPhone, you need to wipe the data remotely from your device using the iCloud website.
@@ -125,34 +141,28 @@ Table of Content
 
 ![wipe an iPhone remotely via iCloud](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY1ODo3OTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU2MiIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Click on**All Devices** and select the**iPhone** that you wish to wipe clean. Remember a green dot against the device means it’s online, whereas a grey dot indicates the iPhone is offline.
 
 ![click All devices in iCloud](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY2MDo3ODE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU1OSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NTkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Next, click on**Erase iPhone** option from the menu that appears.
 
 ![click Erase iPhone](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY2Mjo3ODI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1ODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 * In the confirmation box, click**Erase** .
 
 ![Click Erase to confirm](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY2NDo3ODU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDUzOSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1MzkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
@@ -163,9 +173,12 @@ Key features:
 ![enter your phone number](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY3MDo2NTk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzI0IDI2OCIgd2lkdGg9IjMyNCIgaGVpZ2h0PSIyNjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Finally, enter a**message** that will appear once the iPhone has been erased. Then click**Done** .
 
 ![enter a message to wipe an iPhone
@@ -174,6 +187,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * iCloud will let you know that the erase process has been started.
 
 ![erase process is started.](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY3NTo2NjA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE4MSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxODEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -209,9 +229,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Yes](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY5OToxMTk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjYiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) YES 0
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![No](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTcwNDoxMTg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjYiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) NO
 
 <ins class="adsbygoogle"
@@ -220,8 +237,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +244,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-leading-linux-editors-top-8-video-cutters/"><u>[New] 2024 Approved Leading Linux Editors Top 8 Video Cutters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-viewership-cost-effectively-with-subscriber-purchase/"><u>[New] In 2024, Boost Viewership Cost-Effectively with Subscriber Purchase</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-secure-method-storing-tweet-imagesvideos-on-your-mobile/"><u>[Updated] 2024 Approved Secure Method Storing Tweet Images/Videos on Your Mobile</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-create-insta-highlight-cover-photos-an-ultimate-guide/"><u>[Updated] In 2024, How to Create Insta Highlight Cover Photos An Ultimate Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/guide-to-using-stellar-eraser-on-your-iphone-or-ipad-mac-standard-edition/"><u>Guide to Using Stellar Eraser on Your iPhone or iPad - Mac Standard Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nokia-150-2023-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nokia 150 (2023) in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-s18-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo S18 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-preserving-your-playlist-perfection-in-cross-services/"><u>In 2024, The Art of Preserving Your Playlist Perfection in Cross Services</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-distorted-h264-playback/"><u>Mending Distorted H.264 Playback</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202425034-secure-your-business-with-bitraser-enterprise-erasure-step-by-step-guide-video/"><u>Secure Your Business with BitRaser Enterprise Erasure - Step by Step Guide Video</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/simplify-data-sanitization-enhanced-erasure-techniques-with-the-stellar-eraser-on-mac-and-smartphones/"><u>Simplify Data Sanitization: Enhanced Erasure Techniques with the Stellar Eraser on Mac and Smartphones</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/standard-and-advanced-mac-erase-software-suite-by-stellar-tech/"><u>Standard & Advanced Mac Erase Software Suite by Stellar Tech</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-data-annihilator-pro-the-definitive-guide-to-securely-deleting-filesfolders-in-windows/"><u>Stellar Data Annihilator Pro: The Definitive Guide to Securely Deleting Files/Folders in Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202485095-stellar-reinvents-its-data-recovery-software-for-consumers-ease/"><u>Stellar Reinvents Its Data Recovery Software for Consumers' Ease ...</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-unveils-enhanced-consumer-friendly-data-recovery-solutions/"><u>Stellar Unveils Enhanced Consumer-Friendly Data Recovery Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-hash-playbook-for-video-gamers-on-youtube/"><u>The Ultimate Hash Playbook for Video Gamers on YouTube</u></a></li>
+</ul></div>
 
