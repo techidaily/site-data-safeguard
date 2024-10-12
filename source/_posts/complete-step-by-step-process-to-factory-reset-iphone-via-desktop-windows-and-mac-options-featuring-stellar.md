@@ -1,7 +1,7 @@
 ---
 title: Complete Step-by-Step Process to Factory Reset iPhone via Desktop - Windows and Mac Options Featuring Stellar
-date: 2024-08-27T03:31:26.671Z
-updated: 2024-08-28T03:31:26.671Z
+date: 2024-10-08T16:11:38.746Z
+updated: 2024-10-12T16:15:44.478Z
 categories:
   - repair-tools
 description: This Article Describes Complete Step-by-Step Process to Factory Reset iPhone via Desktop - Windows and Mac Options Featuring Stellar
@@ -64,6 +64,19 @@ Table of Content
 
 ![Click Next in Stellar Toolkit for iPhone](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTYzMjo3NjI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU0MSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Now, connect your iPhone to your computer and click**Erase** to delete data from the selected device.
 
 ![click Erase in Stellar Toolkit for iPhone](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTYzNDo3MDU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDg2IDMzMSIgd2lkdGg9IjQ4NiIgaGVpZ2h0PSIzMzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
@@ -91,26 +104,41 @@ Table of Content
 
 ![click Restore](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY1Mjo2NzA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDQ3MSIgd2lkdGg9IjMwMCIgaGVpZ2h0PSI0NzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * If you don’t see the pop-up window, open the**iTunes** or**Finder** window, select your**iPhone** , and click the**Restore** **iPhone** option.
 
 ![click Restore iPhone in iTunes screen](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY1NDo4MDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDM3NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIzNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Next, click the**Restore and Update** option. It might take a while for iPhone to reset, however, don’t disconnect your iPhone from the computer until the reset process is completed.
 
 ![Click Restore and Update in iTunes](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY1Njo2OTA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzUwIDQ4MiIgd2lkdGg9IjM1MCIgaGVpZ2h0PSI0ODIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **How to Wipe out iPhone Via iCloud?**
 
  If you have lost your iPhone, you need to wipe the data remotely from your device using the iCloud website.
@@ -125,16 +153,17 @@ Table of Content
 
 ![wipe an iPhone remotely via iCloud](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY1ODo3OTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU2MiIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Click on**All Devices** and select the**iPhone** that you wish to wipe clean. Remember a green dot against the device means it’s online, whereas a grey dot indicates the iPhone is offline.
 
 ![click All devices in iCloud](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY2MDo3ODE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU1OSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NTkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Next, click on**Erase iPhone** option from the menu that appears.
 
 ![click Erase iPhone](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY2Mjo3ODI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1ODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
@@ -149,8 +178,12 @@ Table of Content
 ![enter your phone number](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY3MDo2NTk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzI0IDI2OCIgd2lkdGg9IjMyNCIgaGVpZ2h0PSIyNjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Finally, enter a**message** that will appear once the iPhone has been erased. Then click**Done** .
 
 ![enter a message to wipe an iPhone
@@ -190,6 +223,13 @@ Table of Content
 
  You can use Stellar Eraser for iPhone or iTunes for erasing iPhone and iPad without Apple ID. For more information, read this [blog](https://tools.techidaily.com/stellardata-recovery/buy-now/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTY5OToxMTk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjYiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) YES 0
@@ -197,15 +237,17 @@ Table of Content
 ![No](https://www.stellarinfo.com/blog/how-to-completely-wipe-an-iphone-on-windows-or-mac/data:image/svg+xml;nitro-empty-id=MTcwNDoxMTg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjYiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) NO
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,4 +256,26 @@ Table of Content
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-tutorial-for-crafting-top-quality-video-content/"><u>[New] 2024 Approved The Ultimate Tutorial for Crafting Top-Quality Video Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-instructors-resource-for-enhancing-learning-via-video/"><u>[Updated] 2024 Approved Instructor's Resource for Enhancing Learning via Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-slowly-suppressing-audio-loudness/"><u>[Updated] Slowly Suppressing Audio Loudness</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/diy-guide-steps-to-successfully-wipe-your-iphone-clean/"><u>DIY Guide: Steps to Successfully Wipe Your iPhone Clean</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-iphone-data-reconstruction-utility-efficiently-retrieve-deleted-content-safely/"><u>Expert iPhone Data Reconstruction Utility: Efficiently Retrieve Deleted Content Safely</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-fans-access-more-from-your-twitch-channel-for-2024/"><u>Facebook Fans Access More From Your Twitch Channel for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-division-2-crashes-a-speedy-and-straightforward-solution/"><u>Fixing Division 2 Crashes: A Speedy and Straightforward Solution</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/fixing-the-persistent-problem-of-gzw-malfunction-on-your-personal-computer/"><u>Fixing the Persistent Problem of GZW Malfunction on Your Personal Computer</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/get-your-broken-photos-back-top-rated-free-image-restoration-tool-available-now/"><u>Get Your Broken Photos Back: Top-Rated Free Image Restoration Tool Available Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-guide-to-getting-the-epson-et-4550-printer-up-and-running-on-windows/"><u>Hassle-Free Guide to Getting the Epson ET-4550 Printer Up & Running on Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-from-airwaves-to-files-online-audio-capture-basics/"><u>In 2024, From Airwaves to Files Online Audio Capture Basics</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-6-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 6 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/regain-access-to-your-secured-iphone-without-knowing-your-password-stellar-solutions/"><u>Regain Access to Your Secured iPhone Without Knowing Your Password | Stellar Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/swiftfix-ios-toolkit-complete-software-guide-to-resolve-every-apple-device-issue/"><u>SwiftFix iOS Toolkit: Complete Software Guide to Resolve Every Apple Device Issue</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-complete-guide-to-finding-the-perfect-photo-fix-software-top-10-solutions-for-both-mac-and-windows-users/"><u>The Complete Guide to Finding the Perfect Photo Fix Software: Top 10 Solutions for Both Mac and Windows Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-fixer-stellar-photo-repair-tool-for-windows-version-8/"><u>Ultimate Fixer: Stellar Photo Repair Tool for Windows (Version 8)</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/websites-boosted-with-cookiebot-technology/"><u>Websites Boosted with Cookiebot Technology</u></a></li>
+</ul></div>
 
