@@ -1,7 +1,7 @@
 ---
 title: Smooth Gaming on Your PC with These Fixes for WRC 10, the Official FIA World Rally Championship.
-date: 2024-10-17T16:01:56.725Z
-updated: 2024-10-18T16:10:40.063Z
+date: 2024-10-26T02:22:44.182Z
+updated: 2024-10-30T03:03:59.830Z
 tags:
   - win11
   - win10
@@ -43,13 +43,40 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Optimize graphics settings
 
@@ -62,18 +89,18 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
 5. Select**High performance** and click**Save** .
 
 If this method doesn’t work, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Verify integrity of game files
 
@@ -84,10 +111,10 @@ If this method doesn’t work, try the next solution.
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
@@ -96,13 +123,6 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -117,20 +137,13 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart the game and test. Still no luck? Continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
@@ -140,13 +153,6 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
 
@@ -154,20 +160,13 @@ Restart the game and test. Still no luck? Continue to the next fix.
 4. Click**Yes** to confirm.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
@@ -183,6 +182,13 @@ Restart the game and test. Still no luck? Continue to the next fix.
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Apply the changes and see if you’re able to play the game as expected.
 
@@ -208,22 +214,18 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-earnings-for-content-producers-on-short-form-platform/"><u>[Updated] 2024 Approved Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-perfecting-content-aesthetics-crafting-personalized-thumbnails/"><u>[Updated] Perfecting Content Aesthetics Crafting Personalized Thumbnails</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-turn-your-meet-webinar-into-an-interactive-participant-showcase/"><u>[Updated] Turn Your Meet Webinar Into an Interactive Participant Showcase</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-tutorial-on-repairing-damaged-jpegs-top-rated-tools-and-simple-steps-for-flawless-results/"><u>Complete Tutorial on Repairing Damaged JPEGs - Top-Rated Tools and Simple Steps for Flawless Results</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-web-analytics-with-the-power-of-cookiebot-technology/"><u>Enhance Web Analytics with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/groundbreaking-tech-alert-stellar-unveils-first-ever-universal-photo-rehabilitation-software-breaking-news/"><u>Groundbreaking Tech Alert! Stellar Unveils First-Ever Universal Photo Rehabilitation Software - Breaking News</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harnessing-the-power-of-cookiebot-for-effective-ad-targeting/"><u>Harnessing the Power of Cookiebot for Effective Ad Targeting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-10-best-live-streaming-services-for-church-you-should-know/"><u>In 2024, 10 Best Live Streaming Services for Church You Should Know</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-the-finest-7-wet-proof-recorders/"><u>In 2024, Expert Tips The Finest 7 Wet-Proof Recorders</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/maximize-digital-outreach-discover-the-benefits-of-cookiebot-integration/"><u>Maximize Digital Outreach - Discover the Benefits of Cookiebot Integration</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-miniature-effect-in-video-with-filmora-for-2024/"><u>New How to Add Miniature Effect in Video with Filmora for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revive-your-deleted-iphone-memories-on-mac-advanced-data-rescue-software-for-photos-videos-and-contacts/"><u>Revive Your Deleted iPhone Memories on Mac: Advanced Data Rescue Software for Photos, Videos, and Contacts</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-photo-restoration-tool-windows-version-professional-fixes-and-corrections/"><u>Stellar Photo Restoration Tool: Windows Version - Professional Fixes & Corrections</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-11-brainy-battles-general-knowledge-channels-revealed-for-2024/"><u>Top 11 Brainy Battles General Knowledge Channels Revealed for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/total-reset-of-an-iphone-on-your-computer-best-techniques-for-windows-and-mac-devices/"><u>Total Reset of an iPhone on Your Computer: Best Techniques for Windows and Mac Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620253206-troubleshooting-guide-for-when-find-my-iphone-fails-to-update-or-display-location-easy-solutions-inside/"><u>Troubleshooting Guide for When 'Find My iPhone' Fails to Update or Display Location - Easy Solutions Inside</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-m4a-files-to-aiff-without-cost-use-movavis-web-tool/"><u>Convert M4A Files To AIFF Without Cost - Use Movavi's Web Tool!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-solutions-enhancing-your-websites-performance/"><u>Cookiebot-Driven Solutions: Enhancing Your Website's Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cracking-the-code-on-the-back-4-blood-ue4-encounter-with-gobi-fatal-error-a-step-by-step-fix/"><u>Cracking the Code on the 'Back 4 Blood UE4 Encounter with Gobi Fatal Error' - A Step-by-Step Fix</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/embrace-enhanced-user-consent-strategies-through-cookiebot-integration/"><u>Embrace Enhanced User Consent Strategies Through Cookiebot Integration</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-cybersecurity-arsenal-with-stellar-file-eraser-tailored-settings-on-windows-and-effortless-scheduled-file-sanitation/"><u>Enhance Your Cybersecurity Arsenal with Stellar File Eraser: Tailored Settings on Windows and Effortless Scheduled File Sanitation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-insights-effective-data-deletion-strategies-and-writings-by-stellar/"><u>Expert Insights: Effective Data Deletion Strategies and Writings by Stellar</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-lenovo-ideapad-100-drivers-step-by-step-tutorial-for-windows-11-computers/"><u>Get the Latest Lenovo IdeaPad 100 Drivers: Step-by-Step Tutorial for Windows 11 Computers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-next-gen-title-genius-for-online-content-creators/"><u>In 2024, Next-Gen Title Genius for Online Content Creators</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-stellar-file-shredder-essential-security-software-with-automatic-cleanup/"><u>Mac Stellar File Shredder: Essential Security Software with Automatic Cleanup</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mobile-stellar-erase-app-essential-guide-for-standard-en-route-on-a-mac/"><u>Mobile Stellar Erase App: Essential Guide for Standard En Route on a Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-activatedeactivate-windows-11s-touchscreen-input/"><u>Steps to Activate/Deactivate Windows 11'S Touchscreen Input</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-18-4k-camcorders/"><u>Top 18 4K Camcorders</u></a></li>
 </ul></div>
 
