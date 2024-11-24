@@ -1,7 +1,7 @@
 ---
 title: Smooth Gaming on Your PC with These Fixes for WRC 10, the Official FIA World Rally Championship.
-date: 2024-11-13T18:17:08.931Z
-updated: 2024-11-14T22:18:43.751Z
+date: 2024-11-16T16:16:47.950Z
+updated: 2024-11-24T10:47:20.321Z
 tags:
   - win11
   - win10
@@ -43,15 +43,12 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -66,6 +63,10 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
 
@@ -74,10 +75,7 @@ To keep your graphics driver up-to-date, here are two options for you:
 5. Select**High performance** and click**Save** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method doesn’t work, try the next solution.
@@ -90,8 +88,16 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
@@ -107,9 +113,17 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 Restart the game and test. Still no luck? Continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
@@ -120,42 +134,18 @@ Restart the game and test. Still no luck? Continue to the next fix.
 2. Double-click**Software devices** to open the category.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the NVIDIA settings
 
@@ -165,30 +155,14 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Apply the changes and see if you’re able to play the game as expected.
 
@@ -214,18 +188,22 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-to-trim-video-in-windows-10-photos-easily/"><u>[New] In 2024, How to Trim Video in Windows 10 Photos Easily</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-sculpting-unique-fb-ad-visuals-for-2024/"><u>[New] Sculpting Unique FB Ad Visuals for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>[Updated] Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-value-discovering-the-top-7-artwork-to-nft-services/"><u>2024 Approved Secure Value Discovering the Top 7 Artwork-to-NFT Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-vs-authors-6-tactics-for-human-centric-composition/"><u>AI Vs. Authors: 6 Tactics for Human-Centric Composition</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/comprehensive-iphone-software-suite-solving-all-your-ios-challenges/"><u>Comprehensive iPhone Software Suite – Solving All Your iOS Challenges</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhanced-boost-your-sites-engagement/"><u>Cookiebot-Enhanced: Boost Your Site's Engagement!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-key-to-advanced-web-tracking/"><u>Cookiebot: The Key to Advanced Web Tracking</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-the-ultimate-list-of-image-recovery-apps-for-both-pc-and-apple-users/"><u>Discover the Ultimate List of Image Recovery Apps for Both PC and Apple Users</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-magic-6-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Magic 6 Pro Phone?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-6-revolutionary-traits-of-snapchats-my-ai/"><u>The 6 Revolutionary Traits of Snapchat's My AI</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-5-estrategias-para-reducir-el-tamano-de-los-videos-en-formato-matroska-sin-costes/"><u>Top 5 Estrategias Para Reducir El Tamaño De Los Videos en Formato Matroska Sin Costes</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-list-of-the-5-best-photoshop-alternatives-for-pcmac-editing/"><u>Ultimate List of the 5 Best Photoshop Alternatives for PC/Mac Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-chromebooks-premium-free-video-capture-extensions-for-2024/"><u>[New] Chromebook's Premium Free Video Capture Extensions for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-effective-interview-techniques/"><u>[Updated] 2024 Approved Mastering Effective Interview Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-blip-to-big-time-the-9-laws-of-instagram-glory/"><u>[Updated] From Blip to Big Time The 9 Laws of Instagram Glory</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-5-key-strategies-for-impactful-titles-today/"><u>2024 Approved 5 Key Strategies for Impactful Titles Today</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhanced-data-capture-solutions/"><u>Cookiebot-Enhanced Data Capture Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-online-marketing-efforts-powered-by-cookiebot-solutions/"><u>Enhance Online Marketing Efforts: Powered by Cookiebot Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tips-on-deleting-data-from-iphone-using-the-stellar-approach/"><u>Expert Tips on Deleting Data From iPhone Using the Stellar Approach</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/explore-tailored-content-with-a-cookiebot-powered-platform/"><u>Explore Tailored Content with a Cookiebot-Powered Platform</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/groundbreaking-announcement-stellar-unveils-the-premier-photo-restoration-and-repair-tool/"><u>Groundbreaking Announcement: Stellar Unveils the Premier Photo Restoration and Repair Tool!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-compatible-iphone-data-retrieval-tool-restore-lost-photos-videos-and-contacts/"><u>Mac Compatible iPhone Data Retrieval Tool: Restore Lost Photos, Videos, and Contacts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mediatek-usb-vcom-drivers-instant-download-guide/"><u>MediaTek USB VCOM Drivers: Instant Download Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-how-to-edit-audio-of-a-video-on-fcp/"><u>New 2024 Approved How to Edit Audio of a Video on FCP</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/roblox-cheat-code-risks-and-mechanics-insight/"><u>Roblox Cheat Code: Risks and Mechanics Insight</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-rated-photo-restoration-tools-to-recover-damaged-images/"><u>Top-Rated Photo Restoration Tools to Recover Damaged Images</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-your-deleted-text-history-discover-the-best-8-iphone-messaging-data-rescue-applications/"><u>Unlock Your Deleted Text History: Discover the Best 8 iPhone Messaging Data Rescue Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-potential-of-disks-on-win-1011-systems/"><u>Unlocking the Potential of Disks on Win 10/11 Systems</u></a></li>
 </ul></div>
 
