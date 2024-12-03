@@ -1,7 +1,7 @@
 ---
 title: "Celestial Sanitizer Pro: Seamlessly Purge Files and Directories in Windows Environments"
-date: 2024-08-09T05:50:58.546Z
-updated: 2024-08-10T05:50:58.546Z
+date: 2024-11-26T04:11:40.029Z
+updated: 2024-12-02T17:34:20.719Z
 categories:
   - repair-tools
 description: "This Article Describes Celestial Sanitizer Pro: Seamlessly Purge Files and Directories in Windows Environments"
@@ -55,9 +55,6 @@ Stellar File Eraser
 
 1. Run ****Stellar File Eraser** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
 _**Note:** By default, **Erase Files & Folders**  option is selected. If not selected, then select **Erase Files & Folders** from **Select Option** tabs displayed on the left pane of the screen._
@@ -66,9 +63,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
    1. Using **Drag and Drop**  option:  
          1. Drag the file or folder from your system and drop them in the box as shown below:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
 1. 1. Using **Add Items** button:  
@@ -76,24 +70,15 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
          2. **Browse for Files or Folder**  dialog box appears. Select the file or folder and click**OK.**  
          3. The selected file or folder appears on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/added-files.png)
 
 1. 1. Using   **Search & Erase**  option:  
          1. Click**Search & Erase** to find and erase specific files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/a.png)
 
 1. 1. 1. Enter **File Name** , if you do not remember the file name or you can search the file by extension such as .jpg, .png, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/b.png)
 
 1. 1. 1. If you know the location, click**Browse** and select the file or folder.  
@@ -108,9 +93,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 
 1. After successful erasure completion, **Process Completed** window appears with the **Erasure Summary**  of deleted files.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/Process.png)
 
 1. Click **OK**  to finish the process.
@@ -125,8 +107,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,6 +114,24 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-prime-windows-11-photo-inspector/"><u>[New] Prime Windows 11 Photo Inspector</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-compreayers-guide-to-video-refinement-from-standard-definition-to-dynamic-range-zenith/"><u>[Updated] A Compreayer's Guide to Video Refinement From Standard Definition to Dynamic Range Zenith</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-8-tools-for-efficiently-planning-instagram-content/"><u>2024 Approved Top 8 Tools for Efficiently Planning Instagram Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-buys-hidden-promotion-to-win-a-free-macbook-air-m3-learn-how-in-this-easy-guide/"><u>Best Buy’s Hidden Promotion to Win a Free MacBook Air M3! Learn How in This Easy Guide</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/cookiebot-driven-success-enhance-your-site-with-smart-tracking/"><u>Cookiebot-Driven Success: Enhance Your Site with Smart Tracking</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empower-your-site-with-cookiebot-the-secret-ingredient-for-success/"><u>Empower Your Site with Cookiebot: The Secret Ingredient for Success</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tips-for-safeguarding-and-retrieving-your-information-after-resetting-your-iphone/"><u>Expert Tips for Safeguarding and Retrieving Your Information After Resetting Your iPhone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/exploring-the-best-photo-recovery-services-of-2024-an-insightful-look-at-their-strengths-and-weaknesses/"><u>Exploring the Best Photo Recovery Services of 2024: An Insightful Look at Their Strengths and Weaknesses</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-erase-sensitive-info-on-iphone-securely-using-specialized-programs/"><u>How to Erase Sensitive Info on iPhone Securely Using Specialized Programs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-free-cam-software-showdown-best-alternative-to-expensive-options/"><u>In 2024, Free Cam Software Showdown Best Alternative to Expensive Options</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-tips-eliminating-elden-rings-initial-black-startup-problem/"><u>Solution Tips - Eliminating Elden Ring's Initial Black Startup Problem</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unleashing-the-potential-of-your-site-the-cookiebot-advantage/"><u>Unleashing the Potential of Your Site: The Cookiebot Advantage</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

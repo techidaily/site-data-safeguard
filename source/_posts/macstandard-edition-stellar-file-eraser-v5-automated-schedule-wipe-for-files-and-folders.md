@@ -1,7 +1,7 @@
 ---
 title: "MacStandard Edition: Stellar File Eraser v5 - Automated Schedule Wipe for Files & Folders"
-date: 2024-08-09T05:51:25.508Z
-updated: 2024-08-10T05:51:25.508Z
+date: 2024-11-30T16:40:42.555Z
+updated: 2024-12-03T00:29:24.038Z
 categories:
   - repair-tools
 description: "This Article Describes MacStandard Edition: Stellar File Eraser v5 - Automated Schedule Wipe for Files & Folders"
@@ -25,9 +25,6 @@ Stellar File Eraser
          * [3.5.1. Resolving Activation Errors](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.6. Updating the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.7. Contact Information](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 * ![arow](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4\. Working with the Software  
   * [4.1. Erase Files and Folders](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [arow 4.2. Erase Traces](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4.2\. Erase Traces ](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-erase-traces.html)  
@@ -44,18 +41,6 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4.4. Schedule Erasure](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.4.2\. Schedule Erasure for Erasing Files and Folders**
@@ -70,9 +55,6 @@ Stellar File Eraser
 2. Select **Schedule Erasure** from **Select Option** displayed on the left pane of the screen.
 3. Select **Erase Files & Folders** tab from the right pane of the screen as displayed below:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Erase-File.png)
 
 1. Choose the frequency period for running the eraser process from the options provided in the **Run** drop-down menu:
@@ -81,36 +63,18 @@ Stellar File Eraser
 * Select **Weekly** to run scheduler every week.
 * Select **Monthly** to run scheduler every month.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Frequency.png)
 
 1. Select the specific time from **Time** option for the eraser process.
 2. Click **Browse**  under **Choose items**  section**.**  Select the desired file or folder and click **Open** .
 3. The list of selected files and folders will appear. Use **Browse** button to add as many files or folders as you want.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/File-List.png)
 
 1. Check/Uncheck against the respective file or folder that you want to erase.
 1. Click **OK**  to schedule.
 2. A message "**Task scheduled successfully** " appears. Click **OK**  to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Task-Scheduled.png)
 
 _**Note:**  Ensure that application is closed before the scheduled eraser task._
@@ -125,8 +89,6 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,6 +96,28 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-join-the-fun-best-gratuitous-meme-tools-available/"><u>[New] Join the Fun Best Gratuitous Meme Tools Available</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-uncovering-the-best-apps-to-transform-your-speech-for-2024/"><u>[Updated] Uncovering the Best Apps to Transform Your Speech for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlock-vimeos-potential-cutting-edge-video-tools/"><u>[Updated] Unlock Vimeo's Potential Cutting Edge Video Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-vivid-verdant-sets-unlock-your-film-potential-with-free-templates/"><u>2024 Approved Vivid Verdant Sets Unlock Your Film Potential with Free Templates</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/capture-brilliance-secure-your-copy-of-windows-standard-photo-nsoftware-today/"><u>Capture Brilliance: Secure Your Copy of Windows Standard Photo nSoftware Today</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-guide-to-erasing-all-contents-from-an-iphone-windows-and-mac-solutions-by-stellar/"><u>Comprehensive Guide to Erasing All Contents From an iPhone - Windows & Mac Solutions by Stellar</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-troubleshooting-guide-to-revive-your-pictures-with-standard-stellar-photo-repair-on-windows/"><u>Comprehensive Troubleshooting Guide to Revive Your Pictures with Standard Stellar Photo Repair on Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortlessly-retrieve-your-lost-iphone-photos-secure-and-effective-techniques/"><u>Effortlessly Retrieve Your Lost iPhone Photos - Secure and Effective Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-app-grants-optimize-social-engagement-free/"><u>Essential App Grants: Optimize Social Engagement Free</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-advice-on-remotely-clearing-information-off-your-apple-devices/"><u>Expert Advice on Remotely Clearing Information Off Your Apple Devices</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-advice-how-to-utilize-stellarian-tools-for-resolving-photo-8-errors-on-windows/"><u>Expert Advice: How to Utilize Stellarian Tools for Resolving Photo 8 Errors on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 Pro Lock Screen</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-your-creative-process-windows-movie-maker-on-windows-8-unveiled/"><u>In 2024, Optimizing Your Creative Process Windows Movie Maker on Windows 8 Unveiled</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/no-charge-comprehensive-photograph-recovery-software-to-revive-broken-images/"><u>No Charge: Comprehensive Photograph Recovery Software to Revive Broken Images</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-updating-zoom-application-on-windows-and-macos/"><u>Step-by-Step Guide: Updating Zoom Application on Windows and macOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-reel-effect-creating-compelling-loops-on-ig/"><u>The Reel Effect Creating Compelling Loops on IG</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-advanced-data-collection-features-leveraging-the-robust-capabilities-of-cookiebot-technology/"><u>Unlock Advanced Data Collection Features: Leveraging the Robust Capabilities of Cookiebot Technology</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

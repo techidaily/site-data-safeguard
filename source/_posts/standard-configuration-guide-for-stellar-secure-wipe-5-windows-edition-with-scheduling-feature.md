@@ -1,7 +1,7 @@
 ---
 title: Standard Configuration Guide for Stellar Secure Wipe 5 - Windows Edition with Scheduling Feature
-date: 2024-08-09T05:51:41.086Z
-updated: 2024-08-10T05:51:41.086Z
+date: 2024-11-30T17:29:02.009Z
+updated: 2024-12-03T01:03:02.980Z
 categories:
   - repair-tools
 description: This Article Describes Standard Configuration Guide for Stellar Secure Wipe 5 - Windows Edition with Scheduling Feature
@@ -24,9 +24,6 @@ Stellar File Eraser
          * [3.4.1. Resolving Activation Errors](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.5. Updating the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.6. Stellar Support](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![arow](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4\. Working with the Software  
   * [4.1. Erasing Files & Folders](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [4.2. Erasing Traces](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
@@ -46,9 +43,6 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-windows-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4.4. Setting Schedule Erasure](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.4.1\. Setting Schedule Erasure for Erasing Traces**
@@ -61,16 +55,10 @@ Stellar File Eraser
 
 1. Run ****Stellar File Eraser** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/setting-scheduler-for-erasing-traces/user-interface.png)
 
 1. Select**Schedule Erasure** from**Select Option** tabs displayed on the left pane of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/setting-scheduler-for-erasing-traces/Schedule-Eraser-traces.png)
 
 1. **Schedule Erasure** window displays and**Erase Traces** tab is by default selected.
@@ -83,9 +71,6 @@ Stellar File Eraser
 1. From**Start from** , select**Date** and**Time** of scheduler.
 2. Click**OK** .  On successful completion,   **"Task scheduled successfully"** dialog box appears.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/setting-scheduler-for-erasing-traces/Task-schedule.png)
 
 1. Click**OK** to finish the process.
@@ -102,8 +87,6 @@ _**Note** : A scheduler **Summary** with**Task Name** ,**Status** ,**Trigger** ,
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,6 +94,24 @@ _**Note** : A scheduler **Summary** with**Task Name** ,**Status** ,**Trigger** ,
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-zoom-mastery-achieving-precision-in-google-meet-sessions/"><u>[New] In 2024, Zoom Mastery Achieving Precision in Google Meet Sessions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-novice-to-pro-transforming-zoom-into-a-youtube-live-staple/"><u>[Updated] From Novice to Pro Transforming Zoom Into a YouTube Live Staple</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-an-overview-of-youtube-short-content-basics/"><u>2024 Approved An Overview of YouTube Short Content Basics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/boost-your-workout-drive-with-fitbit-versa-3-superior-gps-functionality-and-wellness-tools-packed-in-one-device/"><u>Boost Your Workout Drive with Fitbit Versa 3 - Superior GPS Functionality and Wellness Tools Packed in One Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-failed-secured-connection-issues-a-comprehvew-for-firefox-users/"><u>Dealing with Failed Secured Connection Issues: A Comprehvew for Firefox Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-enhanced-website-management-thanks-to-cookiebot/"><u>Experience Enhanced Website Management Thanks to Cookiebot</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-online-marketing-success/"><u>Harnessing the Power of Cookiebot for Enhanced Online Marketing Success</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/improve-conversion-rates-easily-using-our-leading-cookiebot-features/"><u>Improve Conversion Rates Easily Using Our Leading Cookiebot Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-11-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme 11 5G Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/les-meilleurs-lecteurs-de-videos-wmv-pour-mac-os-windows-10-android-et-iphone-top-picks/"><u>Les Meilleurs Lecteurs De Vidéos WMV Pour Mac OS, Windows 10, Android Et iPhone: Top Picks</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/recover-deleted-items-on-iphone-after-a-factory-reset-tips-and-tricks/"><u>Recover Deleted Items on iPhone After a Factory Reset - Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/three-digital-dreamers-one-creative-quest/"><u>Three Digital Dreamers, One Creative Quest</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-realme-gt-5-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme GT 5 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

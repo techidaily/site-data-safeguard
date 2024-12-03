@@ -1,7 +1,7 @@
 ---
 title: "Mac File Deletion Wizard: Stellar File Eraser 5 with Automatic Cleanup Schedules"
-date: 2024-08-09T05:52:07.997Z
-updated: 2024-08-10T05:52:07.997Z
+date: 2024-12-02T04:30:11.896Z
+updated: 2024-12-02T16:16:20.528Z
 categories:
   - repair-tools
 description: "This Article Describes Mac File Deletion Wizard: Stellar File Eraser 5 with Automatic Cleanup Schedules"
@@ -25,9 +25,6 @@ Stellar File Eraser
          * [3.5.1. Resolving Activation Errors](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.6. Updating the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.7. Contact Information](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![arow](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4\. Working with the Software  
   * [4.1. Erase Files and Folders](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [arow 4.2. Erase Traces](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4.2\. Erase Traces ](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-erase-traces.html)  
@@ -44,9 +41,6 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4.4. Schedule Erasure](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.4.2\. Schedule Erasure for Erasing Files and Folders**
@@ -61,9 +55,6 @@ Stellar File Eraser
 2. Select **Schedule Erasure** from **Select Option** displayed on the left pane of the screen.
 3. Select **Erase Files & Folders** tab from the right pane of the screen as displayed below:
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Erase-File.png)
 
 1. Choose the frequency period for running the eraser process from the options provided in the **Run** drop-down menu:
@@ -72,27 +63,18 @@ Stellar File Eraser
 * Select **Weekly** to run scheduler every week.
 * Select **Monthly** to run scheduler every month.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Frequency.png)
 
 1. Select the specific time from **Time** option for the eraser process.
 2. Click **Browse**  under **Choose items**  section**.**  Select the desired file or folder and click **Open** .
 3. The list of selected files and folders will appear. Use **Browse** button to add as many files or folders as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/File-List.png)
 
 1. Check/Uncheck against the respective file or folder that you want to erase.
 1. Click **OK**  to schedule.
 2. A message "**Task scheduled successfully** " appears. Click **OK**  to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Task-Scheduled.png)
 
 _**Note:**  Ensure that application is closed before the scheduled eraser task._
@@ -107,8 +89,6 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,6 +96,28 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-revamping-your-snapchat-speech-two-straightforward-steps/"><u>[New] Revamping Your Snapchat Speech Two Straightforward Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>[Updated] Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-generate-tones-easily-5-top-online-tools/"><u>2024 Approved Generate Tones Easily 5 Top Online Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-youtube-creator-studio-unleashing-the-power-of-your-channel/"><u>2024 Approved YouTube Creator Studio Unleashing the Power of Your Channel</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-personalization-optimize-your-site/"><u>Cookiebot-Enabled Personalization: Optimize Your Site</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-site-enhanced-user-experience-and-analytics/"><u>Cookiebot-Enabled Site: Enhanced User Experience and Analytics</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhance-your-sites-user-engagement-with-smart-analytics/"><u>Cookiebot: Enhance Your Site's User Engagement with Smart Analytics</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-trick-for-forcing-a-safe-mode-boot-on-windows-without-delay/"><u>Essential Trick for Forcing a Safe Mode Boot on Windows Without Delay</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/exclusive-news-stellar-brings-to-life-unprecedented-photo-repair-tech-get-insider-details/"><u>Exclusive News: Stellar Brings to Life Unprecedented Photo Repair Tech – Get Insider Details!</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/how-cookiebots-powerful-ai-drives-targeted-advertising-for-greater-roi/"><u>How Cookiebot's Powerful AI Drives Targeted Advertising for Greater ROI</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-instant-techniques-to-shuffle-youtube-song-sequences/"><u>In 2024, Instant Techniques to Shuffle YouTube Song Sequences</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-techniques-to-improve-visibility-during-youtube-playback/"><u>In 2024, Techniques to Improve Visibility During YouTube Playback</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/learn-the-best-practices-for-erasing-your-devices-data-without-being-there/"><u>Learn the Best Practices for Erasing Your Device's Data Without Being There</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-unwanted-youtube-suggested-videos-for-2024/"><u>Quash Unwanted YouTube Suggested Videos for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/restore-retouch-revive-the-top-10-editing-apps-for-photos-across-all-platforms/"><u>Restore, Retouch, Revive: The Top 10 Editing Apps for Photos Across All Platforms</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-lost-iphone-files-with-top-data-restoration-solutions/"><u>Secure Your Lost iPhone Files with Top Data Restoration Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/website-enhancement-through-cookiebot-solutions/"><u>Website Enhancement Through Cookiebot Solutions</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

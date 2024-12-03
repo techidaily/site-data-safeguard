@@ -1,7 +1,7 @@
 ---
 title: "MacOS Stellar File Shredder: Efficient Scheduled Deletion of Files & Folders"
-date: 2024-08-09T05:51:11.296Z
-updated: 2024-08-10T05:51:11.296Z
+date: 2024-11-27T02:15:44.631Z
+updated: 2024-12-03T05:52:39.042Z
 categories:
   - repair-tools
 description: "This Article Describes MacOS Stellar File Shredder: Efficient Scheduled Deletion of Files & Folders"
@@ -25,9 +25,6 @@ Stellar File Eraser
          * [3.5.1. Resolving Activation Errors](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.6. Updating the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.7. Contact Information](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![arow](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4\. Working with the Software  
   * [4.1. Erase Files and Folders](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [arow 4.2. Erase Traces](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4.2\. Erase Traces ](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-erase-traces.html)  
@@ -44,9 +41,6 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4.4. Schedule Erasure](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.4.2\. Schedule Erasure for Erasing Files and Folders**
@@ -61,9 +55,6 @@ Stellar File Eraser
 2. Select **Schedule Erasure** from **Select Option** displayed on the left pane of the screen.
 3. Select **Erase Files & Folders** tab from the right pane of the screen as displayed below:
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Erase-File.png)
 
 1. Choose the frequency period for running the eraser process from the options provided in the **Run** drop-down menu:
@@ -72,27 +63,18 @@ Stellar File Eraser
 * Select **Weekly** to run scheduler every week.
 * Select **Monthly** to run scheduler every month.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Frequency.png)
 
 1. Select the specific time from **Time** option for the eraser process.
 2. Click **Browse**  under **Choose items**  section**.**  Select the desired file or folder and click **Open** .
 3. The list of selected files and folders will appear. Use **Browse** button to add as many files or folders as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/File-List.png)
 
 1. Check/Uncheck against the respective file or folder that you want to erase.
 1. Click **OK**  to schedule.
 2. A message "**Task scheduled successfully** " appears. Click **OK**  to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Task-Scheduled.png)
 
 _**Note:**  Ensure that application is closed before the scheduled eraser task._
@@ -107,8 +89,6 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,6 +96,30 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-art-of-elegant-appearance/"><u>[New] 2024 Approved The Art of Elegant Appearance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-essentials-for-transforming-your-google-meet-into-youtube-live-for-2024/"><u>[New] The Essentials for Transforming Your Google Meet Into Youtube Live for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-soundscapes-of-apple-in-the-realm-of-vids/"><u>[Updated] In 2024, Soundscapes of Apple in the Realm of Vids</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-solutions-enhance-your-site-with-cutting-edge-tech/"><u>Cookiebot-Driven Solutions: Enhance Your Site with Cutting-Edge Tech</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-key-to-unlocking-advanced-web-analytics-and-tracking/"><u>Cookiebot: The Key to Unlocking Advanced Web Analytics and Tracking</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erasing-all-information-from-your-iphone-a-step-by-step-process/"><u>Erasing All Information From Your iPhone: A Step-by-Step Process</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-dos-and-donts-for-twilight-self-portraiture/"><u>Essential Do's and Don'ts for Twilight Self-Portraiture</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-the-benefits-of-a-cookiebot-optimized-digital-presence/"><u>Experience the Benefits of a Cookiebot-Optimized Digital Presence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-choosing-the-ideal-live-broadcast-service-for-2024/"><u>Expert Tips on Choosing the Ideal Live Broadcast Service for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/fixes-and-solutions-resolving-metro-exodus-pc-crash-issues/"><u>Fixes & Solutions: Resolving Metro Exodus PC Crash Issues</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-remove-black-bars-from-existing-youtube-videos-in-2024/"><u>How to Remove Black Bars From Existing YouTube Videos, In 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-differences-a-comprehensive-guide-to-selecting-the-ideal-apple-laptop-for-your-needs-macbook-pro-or-macbook-air-cnet/"><u>Navigating the Differences: A Comprehensive Guide to Selecting the Ideal Apple Laptop for Your Needs (MacBook Pro or MacBook Air) | CNET</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-memories-with-our-quick-response-elite-photo-repair-solutions/"><u>Revive Memories with Our Quick-Response, Elite Photo Repair Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-digital-strategy-with-personalized-experiences-via-cookiebot/"><u>Revolutionize Your Digital Strategy with Personalized Experiences via Cookiebot</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-completely-wiping-your-iphones-contents/"><u>Step-by-Step Guide: Completely Wiping Your iPhone's Contents</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-mastering-ppros-full-screen-preview/"><u>Step-by-Step Mastering PPro's Full Screen Preview</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-wipe-your-iphone-clean-with-ease/"><u>Ultimate Guide: Wipe Your iPhone Clean with Ease</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-features-in-sony-blu-ray-player-s6700-for-2024/"><u>Updated Features in Sony Blu-Ray Player S6700 for 2024</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
