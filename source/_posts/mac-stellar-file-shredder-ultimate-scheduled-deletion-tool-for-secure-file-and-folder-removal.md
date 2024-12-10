@@ -1,7 +1,7 @@
 ---
 title: "Mac Stellar File Shredder: Ultimate Scheduled Deletion Tool for Secure File & Folder Removal"
-date: 2024-08-09T05:55:50.432Z
-updated: 2024-08-10T05:55:50.432Z
+date: 2024-12-04T01:07:03.771Z
+updated: 2024-12-10T08:40:17.001Z
 categories:
   - repair-tools
 description: "This Article Describes Mac Stellar File Shredder: Ultimate Scheduled Deletion Tool for Secure File & Folder Removal"
@@ -25,9 +25,6 @@ Stellar File Eraser
          * [3.5.1. Resolving Activation Errors](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.6. Updating the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.7. Contact Information](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![arow](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4\. Working with the Software  
   * [4.1. Erase Files and Folders](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [arow 4.2. Erase Traces](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4.2\. Erase Traces ](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-erase-traces.html)  
@@ -44,9 +41,6 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4.4. Schedule Erasure](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.4.2\. Schedule Erasure for Erasing Files and Folders**
@@ -61,9 +55,6 @@ Stellar File Eraser
 2. Select **Schedule Erasure** from **Select Option** displayed on the left pane of the screen.
 3. Select **Erase Files & Folders** tab from the right pane of the screen as displayed below:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Erase-File.png)
 
 1. Choose the frequency period for running the eraser process from the options provided in the **Run** drop-down menu:
@@ -72,27 +63,18 @@ Stellar File Eraser
 * Select **Weekly** to run scheduler every week.
 * Select **Monthly** to run scheduler every month.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Frequency.png)
 
 1. Select the specific time from **Time** option for the eraser process.
 2. Click **Browse**  under **Choose items**  section**.**  Select the desired file or folder and click **Open** .
 3. The list of selected files and folders will appear. Use **Browse** button to add as many files or folders as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/File-List.png)
 
 1. Check/Uncheck against the respective file or folder that you want to erase.
 1. Click **OK**  to schedule.
 2. A message "**Task scheduled successfully** " appears. Click **OK**  to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Task-Scheduled.png)
 
 _**Note:**  Ensure that application is closed before the scheduled eraser task._
@@ -107,8 +89,6 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,6 +96,23 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-self-verification-on-instagram-what-does-it-mean-for-us/"><u>[New] 2024 Approved Self-Verification on Instagram - What Does It Mean for Us?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-three-budget-friendly-solutions-incorporating-sound-into-your-iphone-videos/"><u>[Updated] 2024 Approved Three Budget-Friendly Solutions Incorporating Sound Into Your iPhone Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-tier-hd-screen-recording-technology-for-2024/"><u>[Updated] Top-Tier HD Screen Recording Technology for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-key-to-advanced-web-behavior-insights/"><u>Cookiebot: Your Key to Advanced Web Behavior Insights</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-websites-user-engagement-with-intelligent-customization-by-cookiebot/"><u>Elevate Your Website's User Engagement with Intelligent Customization by Cookiebot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-release-delayed-fans-await-confirmation/"><u>Guilty Gear Strive Release Delayed: Fans Await Confirmation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-samsung-galaxy-a25-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy A25 5G FRP Bypass</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-90-lite-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor 90 Lite to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-ethical-use-of-ai-chatbots-like-chatgpt-in-mental-health-counseling/"><u>Navigating the Ethical Use of AI Chatbots Like ChatGPT in Mental Health Counseling</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/smart-data-analysis-and-personalization-with-cookiebot-support/"><u>Smart Data Analysis and Personalization With Cookiebot Support</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-file-deletor-on-windows-seamless-scheduled-purging-tutorial/"><u>Stellar File Deletor on Windows: Seamless Scheduled Purging Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-applying-the-cartoon-face-filter-in-snapchat-for-2024/"><u>Step-by-Step Applying the Cartoon Face Filter in Snapchat for 2024</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

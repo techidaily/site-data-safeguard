@@ -1,7 +1,7 @@
 ---
 title: "Efficient Mac Space Recovery: Stellar File Eraser 5 with Automated Cleaning Options"
-date: 2024-08-09T05:53:45.281Z
-updated: 2024-08-10T05:53:45.281Z
+date: 2024-12-08T07:58:01.771Z
+updated: 2024-12-10T01:02:47.254Z
 categories:
   - repair-tools
 description: "This Article Describes Efficient Mac Space Recovery: Stellar File Eraser 5 with Automated Cleaning Options"
@@ -25,9 +25,6 @@ Stellar File Eraser
          * [3.5.1. Resolving Activation Errors](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.6. Updating the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.7. Contact Information](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![arow](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4\. Working with the Software  
   * [4.1. Erase Files and Folders](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [arow 4.2. Erase Traces](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4.2\. Erase Traces ](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-erase-traces.html)  
@@ -44,9 +41,6 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4.4. Schedule Erasure](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.4.2\. Schedule Erasure for Erasing Files and Folders**
@@ -61,9 +55,6 @@ Stellar File Eraser
 2. Select **Schedule Erasure** from **Select Option** displayed on the left pane of the screen.
 3. Select **Erase Files & Folders** tab from the right pane of the screen as displayed below:
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Erase-File.png)
 
 1. Choose the frequency period for running the eraser process from the options provided in the **Run** drop-down menu:
@@ -72,27 +63,18 @@ Stellar File Eraser
 * Select **Weekly** to run scheduler every week.
 * Select **Monthly** to run scheduler every month.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Frequency.png)
 
 1. Select the specific time from **Time** option for the eraser process.
 2. Click **Browse**  under **Choose items**  section**.**  Select the desired file or folder and click **Open** .
 3. The list of selected files and folders will appear. Use **Browse** button to add as many files or folders as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/File-List.png)
 
 1. Check/Uncheck against the respective file or folder that you want to erase.
 1. Click **OK**  to schedule.
 2. A message "**Task scheduled successfully** " appears. Click **OK**  to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Task-Scheduled.png)
 
 _**Note:**  Ensure that application is closed before the scheduled eraser task._
@@ -107,8 +89,6 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,6 +96,21 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-conquer-and-cease-the-unremovable-guide-to-youtube-shorts/"><u>[New] 2024 Approved Conquer & Cease The Unremovable Guide to Youtube Shorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-direct-to-youtube-stepwise-process-of-mobile-and-desktop-video-posting/"><u>[New] 2024 Approved Direct to YouTube Stepwise Process of Mobile & Desktop Video Posting</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-understanding-the-impact-of-aurora-hdr-on-photography/"><u>[New] In 2024, Understanding the Impact of Aurora HDR on Photography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-crafting-worldly-stories-startup-guide-for-future-travel-vloggers/"><u>[Updated] 2024 Approved Crafting Worldly Stories Startup Guide for Future Travel Vloggers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/grow-traffic-and-engagement-through-innovative-tech-solutions/"><u>Grow Traffic and Engagement Through Innovative Tech Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionizing-online-presence-through-state-of-the-art-cookiebot-integration/"><u>Revolutionizing Online Presence Through State-of-the-Art Cookiebot Integration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-selection-of-cutting-edge-wireless-phones/"><u>The Ultimate Selection of Cutting-Edge Wireless Phones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-htc-u23-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your HTC U23 Device</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/upgrade-your-images-quickly-shop-for-advanced-photo-correction-services-now/"><u>Upgrade Your Images Quickly! Shop for Advanced Photo Correction Services Now</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/urgent-iphone-data-retrieval-shop-the-best-tools-for-quick-recovery-today/"><u>Urgent iPhone Data Retrieval - Shop the Best Tools for Quick Recovery Today</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

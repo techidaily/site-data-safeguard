@@ -1,7 +1,7 @@
 ---
 title: How to Perform an Erasure on Your Mac with Mobile 1'S Stellar Eraser App
-date: 2024-08-09T05:54:50.995Z
-updated: 2024-08-10T05:54:50.995Z
+date: 2024-12-06T19:50:47.190Z
+updated: 2024-12-09T22:41:39.492Z
 categories:
   - repair-tools
 description: This Article Describes How to Perform an Erasure on Your Mac with Mobile 1'S Stellar Eraser App
@@ -30,9 +30,6 @@ Stellar Eraser for Mobile
 * [5. Frequently Asked Questions (FAQ)](https://www.stellarinfo.com/help/stellar-eraser-for-mobile-1-mac-standard-en-frequently-asked-questions-faqs.html)
 * [About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar Eraser for Mobile](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.2\. Erasure Process**
@@ -57,23 +54,14 @@ Stellar Eraser for Mobile
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/devices-information.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. You can preview the device's information either in **Grid view** ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/grid-view.png) or **List view** ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/list-view.png) .
 
 * In the **Grid view** , the devices get displayed in a grid-like structure, and also the devices can be sort using the **Sort By** option. The **Sort By** option allows sorting the devices based on the following information/criteria: USB ID, Name, Serial Number, Type, Size, ECID/IMEI, and Status.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://tools.techidaily.com/stellardata-recovery/buy-now/).png)
 
 * In the **List view** , the devices get displayed in a list.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/Screenshot%202022-06-07%20at%209.17.52%20AM.png)
 
  5\. Double-clicking on any of the displayed devices will show the device information of the corresponding device.
@@ -82,9 +70,6 @@ Stellar Eraser for Mobile
 
  6\. From the dialog that appears, click on **USB ID** to change the identifier for the USB port. A dailog box opens, enter the USB Port Identifire name in the text field and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/device-info-usb-id.png)
 
  7\. Select the devices to erase by marking the check-box before every device.
@@ -113,9 +98,6 @@ Stellar Eraser for Mobile
 
  10\. A warning message appears asking to proceed to the erasure process. Click **Proceed** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/warning-proceed.png)
 
 **_Note:_**   _If you do not wish to see the warning message the next time you erase a device, select the **Don't Show Again** check-box._
@@ -132,8 +114,6 @@ Stellar Eraser for Mobile
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,6 +121,24 @@ Stellar Eraser for Mobile
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-batch-file-transformations/"><u>[New] Best Batch File Transformations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quickscreen-log-review-and-alternative-apps/"><u>[New] QuickScreen Log Review and Alternative Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-9-free-video-channel-logomakers-showcase-reviewed/"><u>[New] Top 9 Free Video Channel Logomakers Showcase Reviewed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-smile-spectrum-ranking-jokes-from-reddit-and-twitter/"><u>[Updated] In 2024, Smile Spectrum Ranking Jokes From Reddit & Twitter</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-file-deletion-discover-the-power-of-stellar-file-eraser-version-5-for-windows-users/"><u>Advanced File Deletion: Discover the Power of Stellar File Eraser Version 5 for Windows Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-sites-enhance-user-experience-with-smart-tracking/"><u>Cookiebot-Enabled Sites: Enhance User Experience with Smart Tracking</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-key-to-unlocking-effective-digital-marketing-strategies/"><u>Cookiebot: Your Key to Unlocking Effective Digital Marketing Strategies</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-data-retrieval-stellar-unveils-updated-data-recovery-solutions-designed-for-the-everyday-user/"><u>Effortless Data Retrieval: Stellar Unveils Updated Data Recovery Solutions Designed for the Everyday User</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-sites-data-collection-with-advanced-cookiebot-features/"><u>Elevate Your Site's Data Collection with Advanced Cookiebot Features</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guia-paso-a-paso-para-la-configuracion-de-copia-de-seguridad-automatizada-en-windows-11-8-y-7/"><u>Guía Paso a Paso Para La Configuración De Copia De Seguridad Automatizada en Windows 11, 8 Y 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-90-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor 90 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-power-of-automated-data-sanitization-setting-up-stellar-file-eraser-tasks-in-windows/"><u>The Power of Automated Data Sanitization: Setting Up Stellar File Eraser Tasks in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-amazon-tablet-devices-insights-by-zdnet/"><u>Top-Ranked Amazon Tablet Devices - Insights by ZDNet</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Starry Sky Wipes: The Go-To Window Cleaner for Deleting Folders and Files"
-date: 2024-08-09T05:53:40.508Z
-updated: 2024-08-10T05:53:40.508Z
+date: 2024-12-05T04:27:02.383Z
+updated: 2024-12-10T00:17:58.955Z
 categories:
   - repair-tools
 description: "This Article Describes Starry Sky Wipes: The Go-To Window Cleaner for Deleting Folders and Files"
@@ -43,9 +43,6 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-windows-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.1\. Erasing Files & Folders**
@@ -58,18 +55,6 @@ Stellar File Eraser
 
 1. Run ****Stellar File Eraser** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
 _**Note:** By default, **Erase Files & Folders**  option is selected. If not selected, then select **Erase Files & Folders** from **Select Option** tabs displayed on the left pane of the screen._
@@ -78,9 +63,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
    1. Using **Drag and Drop**  option:  
          1. Drag the file or folder from your system and drop them in the box as shown below:
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
 1. 1. Using **Add Items** button:  
@@ -93,16 +75,10 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 1. 1. Using   **Search & Erase**  option:  
          1. Click**Search & Erase** to find and erase specific files.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/a.png)
 
 1. 1. 1. Enter **File Name** , if you do not remember the file name or you can search the file by extension such as .jpg, .png, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/b.png)
 
 1. 1. 1. If you know the location, click**Browse** and select the file or folder.  
@@ -117,9 +93,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 
 1. After successful erasure completion, **Process Completed** window appears with the **Erasure Summary**  of deleted files.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/Process.png)
 
 1. Click **OK**  to finish the process.
@@ -134,8 +107,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,6 +114,25 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-visionaries-camera-corner-the-best-6-high-res-dslrs-reviewed/"><u>[New] 2024 Approved Visionaries' Camera Corner The Best 6 High-Res DSLRs Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-easygoing-pc-game-guide-for-2024/"><u>[New] The Ultimate Easygoing PC Game Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-30plus-metaverse-quotes-to-inspire-you-ar-and-vr-included/"><u>[Updated] 2024 Approved 30+ Metaverse Quotes to Inspire You [AR & VR Included]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transformative-meme-making-discovering-the-best-8-tools/"><u>[Updated] Transformative Meme-Making Discovering the Best 8 Tools</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/buy-and-upgrade-your-iphone-with-our-superior-eraser/"><u>Buy and Upgrade Your iPhone with Our Superior Eraser</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/combatting-talent-scarcity-with-boomerang-staff-insights-from-zdnet/"><u>Combatting Talent Scarcity with Boomerang Staff – Insights From ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-revolutionizing-user-behavior-analysis-and-conversion-optimization/"><u>Cookiebot: Revolutionizing User Behavior Analysis & Conversion Optimization</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-transforming-digital-interactions-for-optimal-online-presence/"><u>Cookiebot: Transforming Digital Interactions for Optimal Online Presence</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-epic-games-login-with-ease-on-windows-pcs/"><u>Enabling Epic Games Login with Ease on Windows PCs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-conversion-rates-with-our-ai-driven-cookiebot-technology/"><u>Enhanced Conversion Rates with Our AI-Driven Cookiebot Technology</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Nokia C32 Phone with Broken Screen</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-data-collection-with-the-power-of-cookiebot/"><u>Revolutionize Data Collection with the Power of Cookiebot</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-windows-file-recovery-issues-a-comprehensive-guide-by-yl-computing/"><u>Solving Windows File Recovery Issues: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/transforming-art-and-tech-meta-drops-trial-launch/"><u>Transforming Art and Tech: Meta Drops' Trial Launch</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

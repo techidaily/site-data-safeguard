@@ -1,7 +1,7 @@
 ---
 title: Stellar 5 for Mac - Streamline Your Space with Automated File and Folder Removal
-date: 2024-08-09T05:53:09.459Z
-updated: 2024-08-10T05:53:09.459Z
+date: 2024-12-04T22:01:26.486Z
+updated: 2024-12-10T01:29:26.855Z
 categories:
   - repair-tools
 description: This Article Describes Stellar 5 for Mac - Streamline Your Space with Automated File and Folder Removal
@@ -25,9 +25,6 @@ Stellar File Eraser
          * [3.5.1. Resolving Activation Errors](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.6. Updating the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [3.7. Contact Information](https://tools.techidaily.com/stellardata-recovery/buy-now/)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * ![arow](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4\. Working with the Software  
   * [4.1. Erase Files and Folders](https://tools.techidaily.com/stellardata-recovery/buy-now/)  
   * [arow 4.2. Erase Traces](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/arow.png) 4.2\. Erase Traces ](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-erase-traces.html)  
@@ -44,9 +41,6 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-mac-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4.4. Schedule Erasure](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.4.2\. Schedule Erasure for Erasing Files and Folders**
@@ -61,9 +55,6 @@ Stellar File Eraser
 2. Select **Schedule Erasure** from **Select Option** displayed on the left pane of the screen.
 3. Select **Erase Files & Folders** tab from the right pane of the screen as displayed below:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Erase-File.png)
 
 1. Choose the frequency period for running the eraser process from the options provided in the **Run** drop-down menu:
@@ -72,27 +63,18 @@ Stellar File Eraser
 * Select **Weekly** to run scheduler every week.
 * Select **Monthly** to run scheduler every month.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Frequency.png)
 
 1. Select the specific time from **Time** option for the eraser process.
 2. Click **Browse**  under **Choose items**  section**.**  Select the desired file or folder and click **Open** .
 3. The list of selected files and folders will appear. Use **Browse** button to add as many files or folders as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/File-List.png)
 
 1. Check/Uncheck against the respective file or folder that you want to erase.
 1. Click **OK**  to schedule.
 2. A message "**Task scheduled successfully** " appears. Click **OK**  to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-mac-en/schedule-erasure-for-erasing-files-and-folders/Task-Scheduled.png)
 
 _**Note:**  Ensure that application is closed before the scheduled eraser task._
@@ -107,8 +89,6 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,6 +96,28 @@ _**Note:**  Ensure that application is closed before the scheduled eraser task._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-most-effective-ways-to-log-youtube-live-events/"><u>[New] 2024 Approved Most Effective Ways to Log YouTube Live Events</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamlining-video-editing-in-obs-with-luts/"><u>[Updated] 2024 Approved Streamlining Video Editing in OBS With LUTs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-leading-tools-to-record-your-desktop/"><u>[Updated] Leading Tools to Record Your Desktop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-reach-and-recognition-viewership-metrics-for-insta-photos-for-2024/"><u>[Updated] Reach and Recognition Viewership Metrics for Insta Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-uniting-two-giants-transmitting-facebook-vids-on-whatsapp-for-2024/"><u>[Updated] Uniting Two Giants Transmitting Facebook Vids on WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-superior-pcmacos-users-choice-best-8-uhd-video-player/"><u>2024 Approved Superior PC/MacOS Users' Choice Best 8 UHD Video Player</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/aesthetics-9-1-9/"><u>Aesthetics = 9 1 = 9</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-the-crash-overcome-halo-infinite-keeps-freezing-on-your-computer-using-7-easy-fixes/"><u>Conquer the Crash: Overcome Halo Infinite Keeps Freezing on Your Computer Using 7 Easy Fixes!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-secret-to-advanced-seo-customization-and-tracking/"><u>Cookiebot: The Secret to Advanced SEO Customization and Tracking</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/dead-space-remake-wont-start-top-troubleshooting-steps-for-gamers/"><u>Dead Space Remake Won't Start? Top Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-best-data-rescue-solutions-for-iphones-featuring-ios-17-enhanced-options/"><u>Discover the Best Data Rescue Solutions for iPhones – Featuring iOS 17 Enhanced Options</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-digital-strategies-through-ai-powered-analytics-partnered-with-cookiebot/"><u>Elevate Digital Strategies Through AI-Powered Analytics - Partnered with Cookiebot</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-online-experience-with-advanced-cookiebot-features/"><u>Elevate Your Online Experience with Advanced Cookiebot Features</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/iphone-data-recovery-software-for-mac-recover-deleted-photos/"><u>IPhone Data Recovery Software for Mac. Recover Deleted Photos ...</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/rejuvenate-damaged-photos-at-no-cost-download-the-ultimate-restoration-software/"><u>Rejuvenate Damaged Photos at No Cost: Download the Ultimate Restoration Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-10-leading-iphone-and-ipad-erasers-safeguard-privacy-by-removing-all-data/"><u>Top 10 Leading iPhone & iPad Erasers: Safeguard Privacy by Removing All Data</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/unraveling-the-mystery-behind-your-printers-error-messages-insights-from-yl-computing/"><u>Unraveling the Mystery Behind Your Printer's Error Messages: Insights From YL Computing</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
