@@ -1,7 +1,7 @@
 ---
 title: "Data Cleanup Made Simple: Mac-Compatible Stellar Eraser for Effortless File Deletion On The Go"
-date: 2024-08-15T02:18:06.737Z
-updated: 2024-08-16T02:18:06.737Z
+date: 2024-12-14T21:17:43.161Z
+updated: 2024-12-15T21:08:02.648Z
 categories:
   - repair-tools
 description: "This Article Describes Data Cleanup Made Simple: Mac-Compatible Stellar Eraser for Effortless File Deletion On The Go"
@@ -44,9 +44,6 @@ Stellar Eraser for Mobile
 
  2\. The **Devices**  tab lists all the attached iOS/Android devices. The screen which appears is displayed below:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/device-tab.png)
 
  A device message appears after its connection. **For example** : In the above screen, an Android device shows the message '**Turn On USB Debugging** '. To continue from this stage, USB Debugging must be allowed on the Android device's end. Similarly, for iOS devices '**Trust Device** ' message appears.
@@ -57,9 +54,6 @@ Stellar Eraser for Mobile
 
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/devices-information.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. You can preview the device's information either in **Grid view** ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/grid-view.png) or **List view** ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/list-view.png) .
 
 * In the **Grid view** , the devices get displayed in a grid-like structure, and also the devices can be sort using the **Sort By** option. The **Sort By** option allows sorting the devices based on the following information/criteria: USB ID, Name, Serial Number, Type, Size, ECID/IMEI, and Status.
@@ -68,23 +62,14 @@ Stellar Eraser for Mobile
 
 * In the **List view** , the devices get displayed in a list.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/Screenshot%202022-06-07%20at%209.17.52%20AM.png)
 
  5\. Double-clicking on any of the displayed devices will show the device information of the corresponding device.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/device-info.png)
 
  6\. From the dialog that appears, click on **USB ID** to change the identifier for the USB port. A dailog box opens, enter the USB Port Identifire name in the text field and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/device-info-usb-id.png)
 
  7\. Select the devices to erase by marking the check-box before every device.
@@ -113,9 +98,6 @@ Stellar Eraser for Mobile
 
  10\. A warning message appears asking to proceed to the erasure process. Click **Proceed** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-eraser-for-mobile-1-mac-standard-en/erasure-process/warning-proceed.png)
 
 **_Note:_**   _If you do not wish to see the warning message the next time you erase a device, select the **Don't Show Again** check-box._
@@ -132,8 +114,6 @@ Stellar Eraser for Mobile
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,6 +121,27 @@ Stellar Eraser for Mobile
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-innovating-beyond-boundaries-revitalizing-vr-content/"><u>[New] In 2024, Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>2024 Approved Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-erasing-all-information-from-your-iphone-forever/"><u>Complete Guide: Erasing All Information From Your iPhone Forever</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-solving-connectivity-issues-in-the-kotion-g2000-series-mics/"><u>Expert Advice: Solving Connectivity Issues in the Kotion G2000 Series Mics</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-photo-rehabilitation-with-stellar-repair-on-windows-platform/"><u>Expert Photo Rehabilitation with Stellar Repair on Windows Platform</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-12plus-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme 12+ 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/immediate-access-to-prostar-iphoneguard-bestselling-data-retrieval-tool/"><u>Immediate Access to Prostar iPhoneguard - Bestselling Data Retrieval Tool!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-screenshots-programs-ranked-1-8/"><u>In 2024, Best Screenshots Programs Ranked #1-8</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/lost-iphone-photographs-discover-how-our-recovery-app-brings-them-back/"><u>Lost iPhone Photographs? Discover How Our Recovery App Brings Them Back</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-photo-repair-top-10-tools-for-pc-users-and-mac-owners/"><u>Mastering Photo Repair: Top 10 Tools for PC Users & Mac Owners</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/maximizing-impact-adjusting-facebook-video-sizes-correctly-for-2024/"><u>Maximizing Impact Adjusting Facebook Video Sizes Correctly for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-expert-tutorial-on-iphone-data-deletion-and-resetting/"><u>Stellar's Expert Tutorial on iPhone Data Deletion & Resetting</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unleashing-website-growth-through-the-potential-of-cookiebot/"><u>Unleashing Website Growth Through the Potential of Cookiebot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-mechanics-of-generative-ai-how-it-powers-company-innovations/"><u>Unveiling the Mechanics of Generative AI: How It Powers Company Innovations</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-mastering-davinci-resolve-scopes-a-comprehensive-guide-for-2024/"><u>Updated Mastering DaVinci Resolve Scopes A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/which-is-better-for-vloggers-on-facebook-vertical-or-horizontal/"><u>Which Is Better for Vloggers on Facebook Vertical or Horizontal?</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

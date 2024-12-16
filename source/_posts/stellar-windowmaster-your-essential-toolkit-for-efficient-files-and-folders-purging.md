@@ -1,7 +1,7 @@
 ---
 title: "Stellar WindowMaster: Your Essential Toolkit for Efficient Files & Folders Purging"
-date: 2024-08-15T02:16:57.888Z
-updated: 2024-08-16T02:16:57.888Z
+date: 2024-12-09T02:01:12.437Z
+updated: 2024-12-15T16:43:36.541Z
 categories:
   - repair-tools
 description: "This Article Describes Stellar WindowMaster: Your Essential Toolkit for Efficient Files & Folders Purging"
@@ -43,9 +43,6 @@ Stellar File Eraser
 * [5. Frequently Asked Questions (FAQs)](https://www.stellarinfo.com/help/stellar-file-eraser-5-windows-standard-en-frequently-asked-questions-faqs.html)
 * [6. About Stellar](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![toogle](https://www.stellarinfo.com/help/public/frontEnd/onlinehelp/images/toogle.png)
 
 [Stellar File Eraser](https://tools.techidaily.com/stellardata-recovery/buy-now/) /[4. Working with the Software](https://tools.techidaily.com/stellardata-recovery/buy-now/) /**4.1\. Erasing Files & Folders**
@@ -58,9 +55,6 @@ Stellar File Eraser
 
 1. Run ****Stellar File Eraser** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
 _**Note:** By default, **Erase Files & Folders**  option is selected. If not selected, then select **Erase Files & Folders** from **Select Option** tabs displayed on the left pane of the screen._
@@ -69,9 +63,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
    1. Using **Drag and Drop**  option:  
          1. Drag the file or folder from your system and drop them in the box as shown below:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
 1. 1. Using **Add Items** button:  
@@ -79,17 +70,11 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
          2. **Browse for Files or Folder**  dialog box appears. Select the file or folder and click**OK.**  
          3. The selected file or folder appears on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/added-files.png)
 
 1. 1. Using   **Search & Erase**  option:  
          1. Click**Search & Erase** to find and erase specific files.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/a.png)
 
 1. 1. 1. Enter **File Name** , if you do not remember the file name or you can search the file by extension such as .jpg, .png, etc.
@@ -99,9 +84,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 1. 1. 1. If you know the location, click**Browse** and select the file or folder.  
          2. Click**Search** to initiate the search process and add the files to erasure list.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/added-files.png)
 
 1. Click**Erase Now** to start the erasure process.
@@ -125,8 +107,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,6 +114,23 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-satirize-a-guide-to-parody-production/"><u>[New] In 2024, How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-securing-seamless-streams-troubleshooting-fb-live-glitches/"><u>[Updated] 2024 Approved Securing Seamless Streams Troubleshooting FB Live Glitches</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-tiktok-toolkit-increase-views-and-engagement/"><u>[Updated] 2024 Approved The Ultimate TikTok Toolkit Increase Views and Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-iphone-15-pro-and-iphone-14-pro-unveiling-key-improvements-in-apples-new-release-tech-analysis/"><u>Comparing iPhone 15 Pro & iPhone 14 Pro: Unveiling Key Improvements in Apple's New Release | Tech Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cyclings-finest-gaming-experiences-for-2024/"><u>Cycling's Finest Gaming Experiences for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-an-unmatched-thermal-advantage-in-this-durable-android-device-leaving-iphones-in-the-dust-of-overheating-concerns-zdnet/"><u>Discover an Unmatched Thermal Advantage in This Durable Android Device, Leaving iPhones in the Dust of Overheating Concerns | ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-photography-today-with-swift-and-superior-restoration-services/"><u>Elevate Your Photography Today with Swift and Superior Restoration Services</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leading-photo-retouching-apps-the-essential-guide-for-mac-and-pc/"><u>Leading Photo Retouching Apps : The Essential Guide for Mac and PC</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-user-engagement-on-your-website-through-cookiebot-solutions/"><u>Revolutionize User Engagement on Your Website Through Cookiebot Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/simple-steps-to-completely-delete-all-content-from-your-iphone-permanently/"><u>Simple Steps to Completely Delete All Content From Your iPhone Permanently</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-meizu-21-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Meizu 21 | Dr.fone</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
