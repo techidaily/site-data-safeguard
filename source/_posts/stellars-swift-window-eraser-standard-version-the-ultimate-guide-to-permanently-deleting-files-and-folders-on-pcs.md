@@ -1,7 +1,7 @@
 ---
 title: "Stellar's Swift Window Eraser Standard Version: The Ultimate Guide to Permanently Deleting Files and Folders on PCs"
-date: 2024-08-02T04:36:24.087Z
-updated: 2024-08-03T04:36:24.087Z
+date: 2024-12-18T18:24:11.212Z
+updated: 2024-12-25T04:31:53.675Z
 categories:
   - repair-tools
 description: "This Article Describes Stellar's Swift Window Eraser Standard Version: The Ultimate Guide to Permanently Deleting Files and Folders on PCs"
@@ -55,9 +55,6 @@ Stellar File Eraser
 
 1. Run ****Stellar File Eraser** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
 _**Note:** By default, **Erase Files & Folders**  option is selected. If not selected, then select **Erase Files & Folders** from **Select Option** tabs displayed on the left pane of the screen._
@@ -66,9 +63,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
    1. Using **Drag and Drop**  option:  
          1. Drag the file or folder from your system and drop them in the box as shown below:
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/user-interface.png)
 
 1. 1. Using **Add Items** button:  
@@ -76,9 +70,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
          2. **Browse for Files or Folder**  dialog box appears. Select the file or folder and click**OK.**  
          3. The selected file or folder appears on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/added-files.png)
 
 1. 1. Using   **Search & Erase**  option:  
@@ -88,25 +79,16 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
 
 1. 1. 1. Enter **File Name** , if you do not remember the file name or you can search the file by extension such as .jpg, .png, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/b.png)
 
 1. 1. 1. If you know the location, click**Browse** and select the file or folder.  
          2. Click**Search** to initiate the search process and add the files to erasure list.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/added-files.png)
 
 1. Click**Erase Now** to start the erasure process.
 2. **Confirm Erasure** dialog box appears to confirm whether you want to erase the selected data permanently. Click **Proceed**  to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stellar Help](https://www.stellarinfo.com/help/public/onlinehelp_img/stellar-file-eraser-5-windows-standard-en/erasing-files-&-folders/Confirm.png)
 
 1. After successful erasure completion, **Process Completed** window appears with the **Erasure Summary**  of deleted files.
@@ -125,8 +107,6 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,6 +114,24 @@ _**Note:** By default, **Erase Files & Folders**  option is selected. If not sel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-youtube-footage-enhancement-without-borders/"><u>[New] 2024 Approved YouTube Footage Enhancement Without Borders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mobile-panorama-tips-for-skyward-shots/"><u>[New] Mobile Panorama Tips for Skyward Shots</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discovering-where-youtube-video-management-happens/"><u>[Updated] 2024 Approved Discovering Where YouTube Video Management Happens</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/astropurge-5-for-windows-mastering-configured-cycle-erasure-settings/"><u>AstroPurge 5 for Windows: Mastering Configured Cycle Erasure Settings</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/driven-with-cookiebot-technology-optimize-your-websites-user-experience/"><u>Driven with Cookiebot Technology - Optimize Your Website's User Experience</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202582622-efficiently-clear-data-with-stellar-file-wipes-pro-version-5-auto-schedule-included/"><u>Efficiently Clear Data with Stellar File Wipes Pro Version 5, Auto-Schedule Included!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-usability-in-stellars-latest-update-to-data-recovery-solutions-for-consumers/"><u>Enhanced Usability in Stellar's Latest Update to Data Recovery Solutions for Consumers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stay-ahead-in-micromobility-event-schedule-industry-news-and-expert-rumors-unveiled/"><u>Stay Ahead in Micromobility: Event Schedule, Industry News & Expert Rumors Unveiled</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202685099-stellar-file-eraser-5-mac-standard-en-schedule-erasure-for-erasing/"><u>Stellar File Eraser 5 Mac Standard en Schedule Erasure for Erasing ...</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/streamline-your-windows-pc-stellar-file-eraser-5-for-automatic-cleanup/"><u>Streamline Your Windows PC - Stellar File Eraser 5 for Automatic Cleanup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-best-text-plugins-for-ae-users-for-2024/"><u>Top 10 Best Text Plugins for AE Users for 2024</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
