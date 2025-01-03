@@ -1,7 +1,7 @@
 ---
 title: Can't Access Your Phone? Easy Ways to Factory Reset an iPhone with a Forgotten Password
-date: 2024-12-23T04:26:05.623Z
-updated: 2024-12-24T23:28:54.914Z
+date: 2025-01-01T19:19:03.648Z
+updated: 2025-01-03T02:01:21.423Z
 categories:
   - repair-tools
 description: This Article Describes Can't Access Your Phone? Easy Ways to Factory Reset an iPhone with a Forgotten Password
@@ -41,6 +41,10 @@ Table of Content
 
  In this blog, we’ll explain how to erase an iPhone if you have forgotten your device passcode using iTunes, iCloud, or the iPhone Eraser tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to erase your iPhone if you forgot your iPhone Passcode?**
 
  There are three ways to erase your iPhone if you forgot your Passcode. You can use iPhone eraser software, iTunes, and iCloud to reset your iOS device.
@@ -61,7 +65,7 @@ Table of Content
 ![click erase data](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTYzMDo2MTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjY1IDQ1NSIgd2lkdGg9IjY2NSIgaGVpZ2h0PSI0NTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click **Next** on the Erase iPhone Data screen.
@@ -72,21 +76,17 @@ Table of Content
 
 ![click device to select](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTYzNDo2OTQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDg2IDMzMSIgd2lkdGg9IjQ4NiIgaGVpZ2h0PSIzMzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Next, click **Yes** in the **Erase Process** dialog box to start the iPhone erasure process.
 
 ![confirm erase](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTYzNjo4MTE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU0MSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * After completion of the process, a**Data Erase Complete** pop-up will appear; click **OK** .
 
 ![erase completed](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTYzODo3MDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjY1IDQ1NSIgd2lkdGg9IjY2NSIgaGVpZ2h0PSI0NTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your iPhone is now erased, and all your data and settings are removed. Now, you can set up your iPhone again with the same Apple ID and restore your data using iCloud or iTunes backup, if available.
 
@@ -103,10 +103,6 @@ Table of Content
 
 ![click Restore](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY1Mjo2ODE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDQ3MSIgd2lkdGg9IjMwMCIgaGVpZ2h0PSI0NzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * If the pop-up window doesn’t appear, open **iTunes** or **Finder** , select your **iPhone** , go to the**General** tab, and click**Restore** **iPhone** .
 
 ![click restore iPhone](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY1NDo2ODc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjUwIDQwMCIgd2lkdGg9IjY1MCIgaGVpZ2h0PSI0MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
@@ -114,6 +110,10 @@ Table of Content
 * Next, confirm your choice by selecting **Restore and Update** option. It will take a while for your iPhone to reset. Once the restore process gets complete, set up your iPhone or restore it from the backup, if available.
 
 ![click Restore and Update](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY1Njo2OTI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzUwIDQ4MiIgd2lkdGg9IjM1MCIgaGVpZ2h0PSI0ODIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 3: Erase your iPhone via iCloud if you forgot the Passcode**
 
@@ -125,19 +125,11 @@ Table of Content
 
 ![sign in with Apple ID](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY1ODo2ODk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjUwIDQ1NyIgd2lkdGg9IjY1MCIgaGVpZ2h0PSI0NTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select **All Devices** and click on your **iPhone** that you wish to erase.
 
 **Note:** A green dot against the iPhone means it’s online. Likewise, a grey dot means the device is offline.
 
 ![locate your iOS device](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY2MDo4ODI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjUwIDQ1NCIgd2lkdGg9IjY1MCIgaGVpZ2h0PSI0NTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Click on **Erase iPhone** option that comes under your device.
 
@@ -147,12 +139,16 @@ Table of Content
 
 ![click Erase](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY2NDo2ODM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjUwIDQzOCIgd2lkdGg9IjY1MCIgaGVpZ2h0PSI0MzgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Enter**Apple ID** and**password** to verify your identity. Click**Trust** when a**‘Do you trust this browser’** pop-up appears. Next, enter your **phone number** and click **Next** .
 
 ![add your number](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY2Njo2ODc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzI0IDI2OCIgd2lkdGg9IjMyNCIgaGVpZ2h0PSIyNjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Enter a message that will be shown on the iPhone once it has been erased. Click **Done** , and the erase process will begin.
@@ -168,6 +164,10 @@ Table of Content
  **Download the free trial version of the software to evaluate its brilliant features.**
 
 [Download for Windows](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY3MTozMTU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY5IDc2IiB3aWR0aD0iMTY5IiBoZWlnaHQ9Ijc2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==) ](https://www.stellarinfo.com/erase-iphone-data/buy-now.php)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **FAQ**
 
@@ -191,11 +191,11 @@ Table of Content
 
 ![Yes](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY5NDoxMTk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjYiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) YES 0
 
-![No](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY5OToxMTg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjYiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) NO
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![No](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY5OToxMTg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjYiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) NO
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,24 +212,18 @@ Table of Content
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-stealthy-speakers-sanctuary-discovering-quiet-voice-apps-androidios/"><u>[New] 2024 Approved Stealthy Speakers' Sanctuary Discovering Quiet Voice Apps (Android/iOS)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastery-in-monitoring-adding-time-based-events-to-obs/"><u>[New] Mastery in Monitoring Adding Time-Based Events to OBS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-eye-opening-experience-selecting-best-for-vr-gaming/"><u>[Updated] 2024 Approved Eye-Opening Experience Selecting Best for VR Gaming</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-nubia-red-magic-8s-proplus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Nubia Red Magic 8S Pro+ to iPhone | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-engagement-and-retarget-visitors-using-proven-cookiebot-tactics/"><u>Boost Engagement and Retarget Visitors Using Proven Cookiebot Tactics</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-performance-via-cookiebot-integration/"><u>Enhanced Performance via Cookiebot Integration</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ensuring-privacy-with-proven-erasure-advice-from-the-stellar-library-of-knowledge/"><u>Ensuring Privacy with Proven Erasure Advice From the Stellar Library of Knowledge</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-review-of-bitraser-enterprise-software-for-secure-digital-cleanup-video-series/"><u>Expert Review of BitRaser Enterprise Software for Secure Digital Cleanup - Video Series</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-tutorial-on-bitrasers-data-destruction-tool-suite-for-businesses/"><u>Expert Tutorial on BitRaser's Data Destruction Tool Suite for Businesses</u></a></li>
-<li><a href="https://fox-http.techidaily.com/horizon-proworks-complete-4k-integrated-solution/"><u>Horizon ProWorks Complete 4K Integrated Solution</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-completely-delete-files-explore-these-7-effective-algorithms/"><u>How to Completely Delete Files? Explore These 7 Effective Algorithms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/masking-methods-for-confidential-recordings-for-2024/"><u>Masking Methods for Confidential Recordings for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-privacy-unveil-faces-less-clearly/"><u>Master Privacy Unveil Faces Less Clearly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quick-color-concealment-in-premiere/"><u>Quick Color Concealment in Premiere</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202574038-set-your-files-on-a-path-to-oblivion-with-the-stellar-erase-tool-customized-for-windows/"><u>Set Your Files On A Path To Oblivion With The Stellar Erase Tool, Customized For Windows!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/starting-off-understanding-av1-compression-for-2024/"><u>Starting Off Understanding AV1 Compression for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/tips-for-gradual-decrease-of-audio-loudness-in-fl-studio/"><u>Tips for Gradual Decrease of Audio Loudness in FL Studio</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-7-unerasable-file-deletion-techniques-a-guide/"><u>Top 7 Unerasable File Deletion Techniques: A Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-successful-online-marketing-with-cookiebot-tools/"><u>Unlocking Successful Online Marketing with Cookiebot Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2022s-speed-demon-olympic-crossers-greatest-hits/"><u>[Updated] 2022'S Speed Demon Olympic Crossers' Greatest Hits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-snapchats-photo-alterations-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Snapchat's Photo Alterations A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-key-to-unlocking-superior-web-analytics-and-seo/"><u>Cookiebot: The Key to Unlocking Superior Web Analytics and SEO</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-design-for-beginners-premiere-pro-templates-free/"><u>Cutting-Edge Design for Beginners Premiere Pro Templates (Free!)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-online-converter-aiff-en-mp3-movavi/"><u>Gratuit Online Converter AIFF en MP3 - Movavi</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-fortune-on-screen-achieving-youtube-earnings-unlinked-from-ads/"><u>In 2024, Fortune on Screen Achieving YouTube Earnings Unlinked From Ads</u></a></li>
+<li><a href="https://facebook.techidaily.com/learning-from-facebook-the-top-5-user-driven-disasters/"><u>Learning From Facebook: The Top 5 User-Driven Disasters</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leveraging-cookiebot-technology-for-enhanced-search-engine-rankings/"><u>Leveraging Cookiebot Technology for Enhanced Search Engine Rankings</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimize-with-cookiebot-boost-engagement-and-retargeting/"><u>Optimize with Cookiebot: Boost Engagement and Retargeting</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-iphone-files-backup-and-restore-solution-trustworthy-data-recovery-techniques/"><u>Secure Your iPhone Files Backup & Restore Solution: Trustworthy Data Recovery Techniques</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/total-refresh-for-your-iphone-efficient-deletion-methods-revealed/"><u>Total Refresh for Your iPhone: Efficient Deletion Methods Revealed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-photos-into-a-breathtaking-video-with-final-cut-pro-for-2024/"><u>Transform Your Photos Into a Breathtaking Video with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/transform-your-site-metrics-advanced-insights-powered-by-cookiebot/"><u>Transform Your Site Metrics: Advanced Insights Powered by Cookiebot</u></a></li>
 </ul></div>
 
