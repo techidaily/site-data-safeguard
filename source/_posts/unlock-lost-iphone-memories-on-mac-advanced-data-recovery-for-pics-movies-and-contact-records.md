@@ -1,7 +1,7 @@
 ---
 title: "Unlock Lost iPhone Memories on Mac: Advanced Data Recovery for Pics, Movies, and Contact Records"
-date: 2024-12-11T20:35:19.548Z
-updated: 2024-12-16T05:04:19.480Z
+date: 2025-01-02T16:24:47.086Z
+updated: 2025-01-10T06:59:13.827Z
 categories:
   - repair-tools
 description: "This Article Describes Unlock Lost iPhone Memories on Mac: Advanced Data Recovery for Pics, Movies, and Contact Records"
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 ![windows](https://www.stellarinfo.com/image/icw.png) **[Also available for Windows](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone Data Recovery Banner](https://www.stellarinfo.com/public/image/catalog/banner/iPhone-Data-Recovery-v8.png)
 
 * ![stellar logo](https://www.stellarinfo.com/images/v7/stellar_logo.svg)
@@ -60,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 ![Data recovery](https://www.stellarinfo.com/public/image/catalog/v6/man-with-laptop.png)
 
 ![Cloud recovery](https://www.stellarinfo.com/public/image/catalog/v6/iphone/cloud.png) ![ipad recovery](https://www.stellarinfo.com/public/image/catalog/v6/iphone/ipad.png) ![itune recovery](https://www.stellarinfo.com/public/image/catalog/v6/iphone/itune.png) ![iphone recovery](https://www.stellarinfo.com/public/image/catalog/v6/iphone/iphone.png) ![ipod recovery](https://www.stellarinfo.com/public/image/catalog/v6/iphone/ipod.png) ![Data recovery](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Data recovery](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png) ![Data recovery](https://www.stellarinfo.com/public/image/catalog/v6/ract3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Supports Recovery on All iOS Storage Devices
 
@@ -89,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 Powerful Comprehensive Solution
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### More Awesome Features
 
 ![Recover Deleted Contacts](https://www.stellarinfo.com/image/catalog/feature-icon/iPhone/mac/Recover-Deleted-Contacts.png)
@@ -98,6 +94,10 @@ Powerful Comprehensive Solution
  No backup, deleted contacts in haste, or lost contacts, Stellar iPhone recovery tool for Mac helps retrieve your contact details from iPhone, iTunes, or iCloud backup. It gives you the choice to save the contacts list in either VCF, CSV, or HTML format. Along with the contacts, the software also saves the various attributes assigned to the contacts in HTML format.[Read More](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 ![Recover Lost Call History](https://www.stellarinfo.com/image/catalog/feature-icon/iPhone/mac/Recover-Lost-Call-History.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Recover Lost Call History
 
@@ -127,10 +127,6 @@ OTHER FEATURES
 
 ![Recover Deleted Voice Memos](https://www.stellarinfo.com/image/catalog/feature-icon/iPhone/mac/Recover-Deleted-Voice-Memos.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Recover Deleted Voice Memos
 
  Stellar Data Recovery for iPhone restores your missing or deleted voice memos on Mac. Irrespective of how you lost them, it recovers the missing audio recordings on your Mac from iPhone, iTunes, and iCloud backup. The software is easy and quick, and offers you the choice to select and save only those Voice Memos you wish to keep.[Read More](https://tools.techidaily.com/stellardata-recovery/buy-now/)
@@ -155,6 +151,10 @@ OTHER FEATURES
 
 ![Wipes all Third-Party Apps Data](https://www.stellarinfo.com/image/catalog/blacktheme/iPhone-Data-Recovery-Win/features-icon/Erases-Third-Party-Apps.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Wipes all Third-Party Apps Data
 
  Stellar Toolkit for iPhone efficiently wipes all third-party apps data, Photos, Videos, Contacts, Call Logs, Text messages, Photo Stream, Voice Memos, Camera Roll, Notes & Reminders, Calendar, FaceTime calls, Safari Bookmarks, WhatsApp, WeChat, Line, Viber, Tango, and Kik messages & attachments on iPhone and all iOS devices system data.[Learn More](https://www.stellarinfo.com/erase-iphone-data.php)
@@ -173,19 +173,11 @@ Software Walkthrough
 
 ![Select What To Recover](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-mac/iPhone-mac-screen1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select type of data from the list that you want to recover & click Next.
 
 **Step 2** : Select Scan
 
 ![Select Scan](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-mac/iPhone-mac-screen2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The scanning process begins.
 
@@ -193,15 +185,15 @@ The scanning process begins.
 
 ![Select Save](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-mac/iPhone-mac-screen3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Preview the found data, select and save them at desired location on Mac.
 
 **Step 1** : Select What To Recover
 
 ![Select What To Recover](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-mac/iPhone-mac-screen1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select type of data from the list that you want to recover & click Next.
 
@@ -273,6 +265,10 @@ AWARDS & REVIEWS
 
 ![q1](https://www.stellarinfo.com/images/v7/q1.png) ![q1](https://www.stellarinfo.com/images/v7/q2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iLounge](https://www.stellarinfo.com/image/catalog/blacktheme/iPhone-Data-Recovery-Mac/awards/ilounge.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
 iLounge
@@ -287,21 +283,25 @@ Tech Times
 
 ![iLounge](https://www.stellarinfo.com/image/catalog/blacktheme/iPhone-Data-Recovery-Mac/awards/ilounge.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 iLounge
 
  Each offering will have a free version that allows users to do a scan and a preview of what files can be retrieved. The algorithm and recovery technology is so powerful that you can even get back encrypted iTunes and iCloud backup files.
 
 ![Toms Guide](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/tomsguide.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Toms Guide
 
  Stellar is one of your best options for getting your files back.
 
 ![Tech Times](https://www.stellarinfo.com/image/catalog/blacktheme/iPhone-Data-Recovery-Mac/awards/techtimes.png) ![star](https://www.stellarinfo.com/images/v7/star.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tech Times
 
@@ -350,13 +350,13 @@ Documents
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Stellar Data Recovery for iPhone for Mac](https://www.stellarinfo.com/image/catalog/stellar_boxs/iphone_mac.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 TRY BEFORE YOU BUY
@@ -377,10 +377,6 @@ TRY BEFORE YOU BUY
 ![windows](https://www.stellarinfo.com/image/icw.png) **[Also available for Windows](https://tools.techidaily.com/stellardata-recovery/buy-now/)**
 
 FIND YOUR ANSWERS
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### FAQ
 
@@ -442,6 +438,10 @@ Awards Received
  ALSO AVAILABLE AT
 
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  About
 
@@ -508,19 +508,22 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-drones-that-follow-you-back-top-10-drone-leaders-for-2024/"><u>[Updated] Drones That Follow You Back - Top 10 Drone Leaders for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-complete-tiktok-user-manual-for-pc-and-apple-devices/"><u>[Updated] In 2024, The Complete TikTok User Manual for PC & Apple Devices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-oneplus-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on OnePlus .</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-performance-through-the-power-of-cookiebot/"><u>Enhanced Performance Through the Power of Cookiebot</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-6-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 6 Plus?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-xsplit-alternatives-for-streaming/"><u>In 2024, Best Xsplit Alternatives for Streaming</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/innovative-marketing-solutions-harness-the-strengths-of-cookiebot-for-your-sites-success/"><u>Innovative Marketing Solutions: Harness the Strengths of Cookiebot for Your Site's Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-8-essential-methods/"><u>Mastering GPT: 8 Essential Methods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mastering-windows-artistry-nine-top-tools-for-animated-gif-preservation/"><u>Mastering Windows Artistry Nine Top Tools for Animated GIF Preservation</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/personalizing-content-delivery-through-cookiebot-solutions/"><u>Personalizing Content Delivery Through Cookiebot Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/thinkpad-enthusiasts-alert-freshly-updated-thunderbolt-pressure-docking-solutions/"><u>ThinkPad Enthusiasts Alert: Freshly Updated Thunderbolt Pressure Docking Solutions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/trivia-titans-of-the-year-best-general-knowledge-sites-for-2024/"><u>Trivia Titans of the Year - Best General Knowledge Sites for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-how-to-retrieve-erased-phone-contacts-from-your-iphone/"><u>Ultimate Guide: How to Retrieve Erased Phone Contacts From Your iPhone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-advanced-visitor-insights-with-the-power-of-productname-engineered-by-experts/"><u>Unlock Advanced Visitor Insights with the Power of [Product_Name], Engineered by Experts!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/7-recommended-algorithms-to-wipe-files-and-folders-permanently/"><u>7 Recommended Algorithms to Wipe Files and Folders Permanently</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-misconfigured-duo-apps-on-windows/"><u>Addressing Misconfigured Duo Apps on Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-solution-for-gdpr-and-ccpa-readiness/"><u>Cookiebot: Your Solution for GDPR and CCPA Readiness</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-best-algorithms-for-total-and-complete-data-deletion/"><u>Discover The Best Algorithms for Total and Complete Data Deletion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dvd-regionencode-entfernen-kostenlos-und-einfach-konvertieren-sie-eine-region-dvd-in-windows-10-8-oder-7/"><u>DVD-Regionencode Entfernen: Kostenlos Und Einfach Konvertieren Sie Eine Region DVD in Windows 10, 8 Oder 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-to-get-latest-amd-smbus-drivers-download-now/"><u>Easy Steps to Get Latest AMD SMBus Drivers – Download Now!</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/expert-advice-on-handling-installed-software-with-windows-control-panel-by-yl-software-professionals/"><u>Expert Advice on Handling Installed Software with Windows Control Panel by YL Software Professionals</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transforming-cityscapes-into-sustainable-havens-of-life/"><u>In 2024, Transforming Cityscapes Into Sustainable Havens of Life</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-conversions-and-revenue-with-procookies-the-cutting-edge-alternative-to-cookiebot/"><u>Maximize Conversions and Revenue with ProCookies: The Cutting-Edge Alternative to Cookiebot</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-17-essential-steps-for-capturing-live-online-streams-for-2024/"><u>Navigating 17 Essential Steps for Capturing Live Online Streams for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/next-level-consumer-data-safety-with-stellars-revamped-recovery-application-breaking-down-the-news/"><u>Next-Level Consumer Data Safety with Stellar’s Revamped Recovery Application – Breaking Down the News</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202626108-professional-data-sanitization-software-tutorial-watch-the-bitraser-procedure-in-action/"><u>Professional Data Sanitization Software Tutorial: Watch the BitRaser Procedure in Action!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-fixing-google-hangouts-mic-issues-effortlessly/"><u>Quick Solutions: Fixing Google Hangouts Mic Issues Effortlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reviewing-the-high-quality-video-on-galaxy-s8/"><u>Reviewing the High-Quality Video on Galaxy S8</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionizing-data-retrieval-stellars-new-simplified-software-for-everyday-users/"><u>Revolutionizing Data Retrieval: Stellar's New, Simplified Software for Everyday Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-file-eraser-5-windows-standard-en-setting-scheduler-for-erasing-traces/"><u>Stellar File Eraser 5 Windows Standard en Setting Scheduler for Erasing Traces</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-gfx-bug-overcome-interface-functions-correctly/"><u>Win GFX Bug Overcome, Interface Functions Correctly</u></a></li>
 </ul></div>
 
