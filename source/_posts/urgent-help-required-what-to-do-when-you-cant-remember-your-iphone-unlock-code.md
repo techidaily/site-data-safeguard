@@ -1,7 +1,7 @@
 ---
 title: "Urgent Help Required: What To Do When You Can't Remember Your iPhone Unlock Code?"
-date: 2025-01-12T16:49:44.760Z
-updated: 2025-01-16T01:31:26.856Z
+date: 2025-01-27T18:10:52.437Z
+updated: 2025-01-29T18:09:31.384Z
 categories:
   - repair-tools
 description: "This Article Describes Urgent Help Required: What To Do When You Can't Remember Your iPhone Unlock Code?"
@@ -41,13 +41,13 @@ Table of Content
 
  In this blog, we’ll explain how to erase an iPhone if you have forgotten your device passcode using iTunes, iCloud, or the iPhone Eraser tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How to erase your iPhone if you forgot your iPhone Passcode?**
 
  There are three ways to erase your iPhone if you forgot your Passcode. You can use iPhone eraser software, iTunes, and iCloud to reset your iOS device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 1: Erase iPhone Using iPhone Erasure Software**
 
@@ -65,7 +65,7 @@ Table of Content
 ![click erase data](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTYzMDo2MTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjY1IDQ1NSIgd2lkdGg9IjY2NSIgaGVpZ2h0PSI0NTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click **Next** on the Erase iPhone Data screen.
@@ -79,6 +79,10 @@ Table of Content
 * Next, click **Yes** in the **Erase Process** dialog box to start the iPhone erasure process.
 
 ![confirm erase](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTYzNjo4MTE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDU0MSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI1NDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * After completion of the process, a**Data Erase Complete** pop-up will appear; click **OK** .
 
@@ -103,10 +107,6 @@ Table of Content
 
 ![click restore iPhone](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY1NDo2ODc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjUwIDQwMCIgd2lkdGg9IjY1MCIgaGVpZ2h0PSI0MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Next, confirm your choice by selecting **Restore and Update** option. It will take a while for your iPhone to reset. Once the restore process gets complete, set up your iPhone or restore it from the backup, if available.
 
 ![click Restore and Update](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY1Njo2OTI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzUwIDQ4MiIgd2lkdGg9IjM1MCIgaGVpZ2h0PSI0ODIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
@@ -122,7 +122,7 @@ Table of Content
 ![sign in with Apple ID](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY1ODo2ODk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjUwIDQ1NyIgd2lkdGg9IjY1MCIgaGVpZ2h0PSI0NTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select **All Devices** and click on your **iPhone** that you wish to erase.
@@ -130,6 +130,10 @@ Table of Content
 **Note:** A green dot against the iPhone means it’s online. Likewise, a grey dot means the device is offline.
 
 ![locate your iOS device](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY2MDo4ODI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjUwIDQ1NCIgd2lkdGg9IjY1MCIgaGVpZ2h0PSI0NTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Click on **Erase iPhone** option that comes under your device.
 
@@ -143,23 +147,15 @@ Table of Content
 
 ![add your number](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY2Njo2ODc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzI0IDI2OCIgd2lkdGg9IjMyNCIgaGVpZ2h0PSIyNjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Enter a message that will be shown on the iPhone once it has been erased. Click **Done** , and the erase process will begin.
 
 ![add your message](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY2ODo2ODg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzI0IDMwMSIgd2lkdGg9IjMyNCIgaGVpZ2h0PSIzMDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Once done, your iPhone is erased clean, and now you can set it up again using the same Apple ID.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -187,6 +183,10 @@ Table of Content
 
  In your iPhone, go to**Settings** \>**Face ID and Passcode** \>**Change** **Passcode** . Enter your**current** **Passcode** and then enter the**new** **Passcode** twice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Was this article helpful?
 
 ![Yes](https://www.stellarinfo.com/blog/erase-iphone-without-passcode/data:image/svg+xml;nitro-empty-id=MTY5NDoxMTk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjYiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) YES 0
@@ -212,24 +212,20 @@ Table of Content
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-voice-your-ideas-windows-10-recorder-walkthrough-for-2024/"><u>[New] Voice Your Ideas Windows 10 Recorder Walkthrough for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-evolution-of-youtube-shorts-templates-and-their-impact-on-engagement/"><u>[Updated] The Evolution of YouTube Shorts Templates and Their Impact on Engagement</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-uncomplicated-blueprint-for-crafting-successful-ads-online/"><u>[Updated] Uncomplicated Blueprint for Crafting Successful Ads Online</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-uncovering-the-best-apps-to-transform-your-speech/"><u>2024 Approved Uncovering the Best Apps to Transform Your Speech</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boosting-online-engagement-with-cookiebot-technology-integration/"><u>Boosting Online Engagement with Cookiebot Technology Integration</u></a></li>
-<li><a href="https://network-issues.techidaily.com/corrected-disproportionate-monitor-sizes-in-windows-10/"><u>Corrected Disproportionate Monitor Sizes in Windows 10</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/guide-securely-wiping-out-your-iphone-or-ipad-data-from-afar/"><u>Guide: Securely Wiping Out Your iPhone or iPad Data From Afar</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/how-to-improve-lagging-system-responses-solutions-from-yl-computing-and-software/"><u>How to Improve Lagging System Responses - Solutions From YL Computing and Software</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-14-ultra-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi 14 Ultra Location Settings | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/in-depth-guide-mastering-the-art-of-full-scale-data-deletion-from-your-ios-gadget/"><u>In-Depth Guide: Mastering the Art of Full-Scale Data Deletion From Your iOS Gadget</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/lead-conversion-boosted-by-advanced-cookiebot-features/"><u>Lead Conversion Boosted by Advanced Cookiebot Features</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leveraging-cookiebot-for-dynamic-website-personalization-and-insights/"><u>Leveraging Cookiebot for Dynamic Website Personalization and Insights</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-users-guide-to-retrieving-lost-iphone-memories-photo-and-video-restoration-app-with-contact-support/"><u>Mac Users' Guide to Retrieving Lost iPhone Memories: Photo and Video Restoration App with Contact Support</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/requesting-a-purchase-invoice-on-flipbuilder-how-can-i-obtain-it/"><u>Requesting a Purchase Invoice on FlipBuilder - How Can I Obtain It?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ng-consistent-income-through-youtube-for-2024/"><u>Seeking Consistent Income Through YouTube for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-10-expertly-curated-software-selections-to-recover-lost-data-on-iphones-ios-17-ready/"><u>Top 10 Expertly Curated Software Selections to Recover Lost Data on iPhones (iOS 17 Ready)</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-rated-tools-for-fixing-damaged-images-ultimate-guide/"><u>Top-Rated Tools for Fixing Damaged Images: Ultimate Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-windows-11-audio-problems-in-just-5-easy-steps/"><u>Ultimate Guide: Solving Windows 11 Audio Problems in Just 5 Easy Steps</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-growth-potential-boosting-website-performance-via-cookiebot-innovation/"><u>Unlock Growth Potential: Boosting Website Performance via Cookiebot Innovation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/armonizing-your-music-a-youtube-playlist-journey/"><u>[New] Harmonizing Your Music A YouTube Playlist Journey</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-become-an-expert-at-unearthing-unique-visuals-from-pexels/"><u>[Updated] 2024 Approved Become an Expert at Unearthing Unique Visuals From Pexels</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-bold-pfp-strategies-for-a-memorable-tiktok-persona/"><u>[Updated] In 2024, Bold PFP Strategies for a Memorable TikTok Persona</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quick-visuals-accompanied-by-audio/"><u>2024 Approved Quick Visuals Accompanied by Audio</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effective-methods-for-completely-wiping-your-iphone-a-comprehensive-guide/"><u>Effective Methods for Completely Wiping Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-cookiebots-power-to-enhance-your-site-seo-success/"><u>Harnessing Cookiebot's Power to Enhance Your Site SEO Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovation-unveiled-the-leading-video-cams-of-2024/"><u>Innovation Unveiled The Leading Video Cams of 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-overwatch-2-launch-errors-ultimate-fix-guide/"><u>Overcoming Overwatch 2 Launch Errors – Ultimate Fix Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-web-analytics-unlock-potential-with-cookiebot-powered-insights/"><u>Revolutionize Web Analytics: Unlock Potential with Cookiebot Powered Insights</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-user-interaction-with-cutting-edge-cookiebot-features/"><u>Revolutionize Your User Interaction with Cutting-Edge Cookiebot Features</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-wipe-your-iphone-clean-with-stellar/"><u>Step-by-Step Guide: Wipe Your iPhone Clean with Stellar</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/streamline-your-content-a-tutorial-for-instagram-video-sharing-for-2024/"><u>Streamline Your Content A Tutorial for Instagram Video Sharing for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/video-guide-mastering-data-security-encrypt-and-recover-your-macs-hdd/"><u>Video Guide: Mastering Data Security – Encrypt & Recover Your Mac's HDD</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/video-marketing-mastery-for-youtube-success-for-2024/"><u>Video Marketing Mastery for YouTube Success for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/what-to-do-when-you-need-to-recover-deleted-data-from-your-iphones-post-factory-reset/"><u>What to Do When You Need to Recover Deleted Data From Your iPhones Post-Factory Reset</u></a></li>
 </ul></div>
 

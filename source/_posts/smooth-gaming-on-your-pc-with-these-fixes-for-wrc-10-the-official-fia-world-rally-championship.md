@@ -1,7 +1,7 @@
 ---
 title: Smooth Gaming on Your PC with These Fixes for WRC 10, the Official FIA World Rally Championship.
-date: 2025-01-12T03:53:15.773Z
-updated: 2025-01-15T20:09:10.355Z
+date: 2025-01-28T18:52:02.570Z
+updated: 2025-01-29T18:43:41.764Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ As one of the most awaited games in 2022, Elden Ring is finally here. However ma
 6. **[Adjust the NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
@@ -47,16 +47,8 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -75,7 +67,7 @@ To keep your graphics driver up-to-date, here are two options for you:
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Once it’s added, click it and select**Options** .  
@@ -83,10 +75,6 @@ To keep your graphics driver up-to-date, here are two options for you:
 5. Select**High performance** and click**Save** .
 
 If this method doesn’t work, try the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Verify integrity of game files
 
@@ -100,6 +88,10 @@ If this method doesn’t work, try the next solution.
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
 
@@ -115,12 +107,16 @@ If this method doesn’t work, try the next solution.
 3. Untick**Enable the Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 Restart the game and test. Still no luck? Continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
@@ -130,15 +126,31 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the NVIDIA settings
 
@@ -148,22 +160,10 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Apply the changes and see if you’re able to play the game as expected.
 
@@ -189,24 +189,22 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-how-to-burn-video-to-dvd-on-mac-for-2024/"><u>[New] How to Burn Video to DVD on Mac for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-tech-best-drone-gimbals-reviewed/"><u>[New] Top Tech Best Drone Gimbals Reviewed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid/"><u>[Updated] How to Find Your Comments on YouTube on Desktop/iPhone/Android</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unraveling-youtubes-puzzles-a-step-by-step-reveal/"><u>[Updated] Unraveling YouTube's Puzzles A Step-by-Step Reveal</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-10-games-like-gta-v/"><u>2024 Approved Top 10 Games Like GTA V</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-to-gif-magic-your-ultimate-guide-to-animated-images/"><u>2024 Approved Youtube to Gif Magic Your Ultimate Guide to Animated Images</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-between-gemini-and-chatgpt-plus-a-detailed-comparison/"><u>Choosing Between Gemini and ChatGPT Plus: A Detailed Comparison</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/diy-guide-steps-to-successfully-wipe-your-iphone-clean/"><u>DIY Guide: Steps to Successfully Wipe Your iPhone Clean</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-iphone-data-reconstruction-utility-efficiently-retrieve-deleted-content-safely/"><u>Expert iPhone Data Reconstruction Utility: Efficiently Retrieve Deleted Content Safely</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/fixing-the-persistent-problem-of-gzw-malfunction-on-your-personal-computer/"><u>Fixing the Persistent Problem of GZW Malfunction on Your Personal Computer</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/get-your-broken-photos-back-top-rated-free-image-restoration-tool-available-now/"><u>Get Your Broken Photos Back: Top-Rated Free Image Restoration Tool Available Now</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/regain-access-to-your-secured-iphone-without-knowing-your-password-stellar-solutions/"><u>Regain Access to Your Secured iPhone Without Knowing Your Password | Stellar Solutions</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-digital-marketing-strategy-using-elite-cookiebot-driven-analytics-tools/"><u>Revolutionize Your Digital Marketing Strategy Using Elite Cookiebot Driven Analytics Tools</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-tab-s3-timeless-excellence-or-outdated-tech-reviews-and-insights/"><u>Samsung Galaxy Tab S3: Timeless Excellence or Outdated Tech? Reviews & Insights</u></a></li>
-<li><a href="https://fox-making.techidaily.com/send-personalized-messages-and-greetings/"><u>Send Personalized Messages and Greetings</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-complete-guide-to-finding-the-perfect-photo-fix-software-top-10-solutions-for-both-mac-and-windows-users/"><u>The Complete Guide to Finding the Perfect Photo Fix Software: Top 10 Solutions for Both Mac and Windows Users</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-potential-the-dell-g5-5090-awaits-in-budget-friendly-power-and-extensive-feature-selection/"><u>Unlocking Potential: The Dell G5 5090 Awaits in Budget-Friendly Power & Extensive Feature Selection</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/websites-boosted-with-cookiebot-technology/"><u>Websites Boosted with Cookiebot Technology</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-movie-maker-unveiled-your-path-to-video-mastery-for-2024/"><u>YouTube Movie Maker Unveiled Your Path to Video Mastery for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-free-speech-analysis-and-command-execution-for-2024/"><u>[New] Free Speech Analysis & Command Execution for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-arcade-affordability-index/"><u>[New] In 2024, ARCADE AFFORDABILITY INDEX</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-recording-companion-az-tests-and-alternatives/"><u>[Updated] In 2024, Ultimate Recording Companion - AZ Tests & Alternatives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-comparing-top-windows-laptop-choices-from-acer-to-dell/"><u>Affordable Excellence: Comparing Top Windows Laptop Choices From Acer to Dell</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-erase-your-iphones-history-once-and-for-all/"><u>Complete Guide: Erase Your iPhone's History Once and For All</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-wiping-data-from-your-iphoneipad-device-via-distance/"><u>Complete Guide: Wiping Data From Your iPhone/iPad Device via Distance</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-walkthrough-on-mac-hard-drive-security-encrypt-decrypt-and-rescue-procedures-explained/"><u>Comprehensive Walkthrough on Mac Hard Drive Security - Encrypt, Decrypt & Rescue Procedures Explained</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhanced-user-experience-smart-marketing-automation/"><u>Cookiebot-Enhanced User Experience: Smart Marketing Automation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-website-traffic-using-cookiebot-technology/"><u>Enhance Your Website Traffic Using Cookiebot Technology</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-marketing-precision-through-our-cookiebot-integration/"><u>Enhanced Marketing Precision Through Our Cookiebot Integration</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/explore-the-best-data-recovery-programs-for-your-iphone-with-ios-17-top-2024-recommendations/"><u>Explore the Best Data Recovery Programs for Your iPhone with iOS 17: Top 2024 Recommendations</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-restore-lost-information-on-your-iphone-with-stellar-a-step-by-step-guide/"><u>How to Restore Lost Information on Your iPhone with Stellar: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-techniques-for-lut-use-in-premiere-pro/"><u>In 2024, Advanced Techniques for LUT Use in Premiere Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-cutting-edge-tactics-for-effective-cricket-streaming/"><u>In 2024, Cutting-Edge Tactics for Effective Cricket Streaming</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oneplus-nord-ce-3-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from OnePlus Nord CE 3 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oneplus-nord-3-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass OnePlus Nord 3 5G FRP Without Computer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-top-five-transformative-facebook-traits/"><u>In 2024, Unlocking Top Five Transformative Facebook Traits</u></a></li>
 </ul></div>
 
