@@ -1,7 +1,7 @@
 ---
 title: Smooth Gaming on Your PC with These Fixes for WRC 10, the Official FIA World Rally Championship.
-date: 2025-01-28T18:52:02.570Z
-updated: 2025-01-29T18:43:41.764Z
+date: 2025-02-02T19:34:48.254Z
+updated: 2025-02-10T01:02:06.018Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ As one of the most awaited games in 2022, Elden Ring is finally here. However ma
 6. **[Adjust the NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
@@ -66,13 +66,13 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
 5. Select**High performance** and click**Save** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this method doesn’t work, try the next solution.
 
@@ -84,16 +84,20 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -106,16 +110,16 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
@@ -126,31 +130,23 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the NVIDIA settings
 
@@ -162,6 +158,10 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
 
@@ -189,22 +189,22 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-free-speech-analysis-and-command-execution-for-2024/"><u>[New] Free Speech Analysis & Command Execution for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-arcade-affordability-index/"><u>[New] In 2024, ARCADE AFFORDABILITY INDEX</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-recording-companion-az-tests-and-alternatives/"><u>[Updated] In 2024, Ultimate Recording Companion - AZ Tests & Alternatives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-comparing-top-windows-laptop-choices-from-acer-to-dell/"><u>Affordable Excellence: Comparing Top Windows Laptop Choices From Acer to Dell</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-guide-erase-your-iphones-history-once-and-for-all/"><u>Complete Guide: Erase Your iPhone's History Once and For All</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-guide-wiping-data-from-your-iphoneipad-device-via-distance/"><u>Complete Guide: Wiping Data From Your iPhone/iPad Device via Distance</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/comprehensive-walkthrough-on-mac-hard-drive-security-encrypt-decrypt-and-rescue-procedures-explained/"><u>Comprehensive Walkthrough on Mac Hard Drive Security - Encrypt, Decrypt & Rescue Procedures Explained</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhanced-user-experience-smart-marketing-automation/"><u>Cookiebot-Enhanced User Experience: Smart Marketing Automation</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-your-website-traffic-using-cookiebot-technology/"><u>Enhance Your Website Traffic Using Cookiebot Technology</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-marketing-precision-through-our-cookiebot-integration/"><u>Enhanced Marketing Precision Through Our Cookiebot Integration</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/explore-the-best-data-recovery-programs-for-your-iphone-with-ios-17-top-2024-recommendations/"><u>Explore the Best Data Recovery Programs for Your iPhone with iOS 17: Top 2024 Recommendations</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-restore-lost-information-on-your-iphone-with-stellar-a-step-by-step-guide/"><u>How to Restore Lost Information on Your iPhone with Stellar: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-techniques-for-lut-use-in-premiere-pro/"><u>In 2024, Advanced Techniques for LUT Use in Premiere Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-cutting-edge-tactics-for-effective-cricket-streaming/"><u>In 2024, Cutting-Edge Tactics for Effective Cricket Streaming</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oneplus-nord-ce-3-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from OnePlus Nord CE 3 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oneplus-nord-3-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass OnePlus Nord 3 5G FRP Without Computer</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-top-five-transformative-facebook-traits/"><u>In 2024, Unlocking Top Five Transformative Facebook Traits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-az-video-grabber-in-depth-app-analysis-and-diversions/"><u>[New] 2024 Approved AZ Video Grabber In-Depth App Analysis & Diversions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-exploring-earning-potential-revenue-from-youtube-advertisements/"><u>[Updated] In 2024, Exploring Earning Potential Revenue From YouTube Advertisements?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-list-of-superior-live-streaming-services/"><u>[Updated] In 2024, The Ultimate List of Superior Live Streaming Services</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-power-of-cookiebot-in-skyrocketing-your-websites-visibility/"><u>Discover the Power of Cookiebot in Skyrocketing Your Website's Visibility</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-idevice-file-rescue-on-mac-os-x-best-software-for-recovering-deleted-images-videos-and-contacts-from-your-iphone/"><u>Effortless iDevice File Rescue on Mac OS X: Best Software for Recovering Deleted Images, Videos & Contacts From Your iPhone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-social-media-presence-insta-videography/"><u>Elevate Your Social Media Presence Insta-Videography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-livestream-with-manycam-advanced-software-tips-for-a-realistic-webcam-experience/"><u>Enhance Your Livestream with ManyCam: Advanced Software Tips for a Realistic Webcam Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/flawless-photography-made-simple-the-cloud-capable-nixplay-iris/"><u>Flawless Photography Made Simple: The Cloud-Capable Nixplay Iris</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/get-your-lost-iphone-data-back-secure-it-with-our-expert-recovery-services/"><u>Get Your Lost iPhone Data Back – Secure It with Our Expert Recovery Services</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-retrieve-accidentally-deleted-iphone-pictures-with-top-rated-software/"><u>How to Retrieve Accidentally Deleted iPhone Pictures with Top-Rated Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leading-10-photography-fix-tools-ultimate-guide-for-pc-and-mac-enthusiasts/"><u>Leading 10 Photography Fix Tools: Ultimate Guide for PC & Mac Enthusiasts</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leveraging-cookiebot-for-advanced-seo-strategies/"><u>Leveraging Cookiebot for Advanced SEO Strategies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/shot-selection-mastery-making-every-frame-count-on-youtube/"><u>Shot Selection Mastery Making Every Frame Count on YouTube</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-eraser-for-iphone-available-purchase-now/"><u>Stellar Eraser for iPhone Available – Purchase Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/telecharger-et-convertir-des-fichiers-de-film-qt-en-format-mov-facilement-moovee/"><u>Télécharger Et Convertir Des Fichiers De Film QT en Format MOV Facilement - Moovee</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-complete-ranking-of-top-8-smstext-messages-recovery-apps-for-ios-devices/"><u>The Complete Ranking of Top 8 SMS/Text Messages Recovery Apps for iOS Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-registry-edits-in-cmd/"><u>Unveiling the Secrets of Registry Edits in CMD</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cookiebot's Role in Streamlining Online Marketing Efforts
-date: 2025-01-26T17:51:57.278Z
-updated: 2025-01-29T19:29:28.139Z
+date: 2025-02-04T22:46:48.347Z
+updated: 2025-02-10T06:36:09.942Z
 categories:
   - repair-tools
 description: This Article Describes Cookiebot's Role in Streamlining Online Marketing Efforts
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 [Excellent](https://zonlipartnershipprogram.pxf.io/b0rbxy)
 
 # DIY Photo Restoration Software to Recover & Repair Photos
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore deleted pictures, videos and audio files from all storage devices as well as repair damaged and corrupted photos
 
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
  "Recovered formatted Photos & Videos from SD Card"
 
 **Emily Miller** ![play](https://imp.i110150.net/r5bmpn)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Digital Camera world](https://www.stellarinfo.com/images/digital-camera-world-gold.png)
 
@@ -106,6 +106,10 @@ ONE-STOP SOLUTION FOR ANY PHOTO RECOVERY NEEDS
 
 ![Restores Corrupt Photos in Original Form](https://www.stellarinfo.com/image/catalog/feature-icon/photo-professional/restores-corrupt-photos-in-original-form.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Restores Corrupt Photos in Original Form
 
  Often a recovered photo or image is not in usable form due to corruption, or you may have the need to repair an image that’s already corrupt. Now you don’t need to spend on two different software or tools for photo recovery and photo repair. Stellar Photo Recovery Professional recovers photos, videos, and audio files, as well as performs damaged photo restoration. It repairs unlimited photos and restores them in their original form.
@@ -113,7 +117,7 @@ ONE-STOP SOLUTION FOR ANY PHOTO RECOVERY NEEDS
 ![Recovers Files from Corrupt or Formatted Storage](https://www.stellarinfo.com/image/catalog/feature-icon/photo-professional/recovers-file-from-corrupt-or-formatted-storage.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Recovers Files from Corrupt or Formatted Storage
@@ -121,10 +125,6 @@ ONE-STOP SOLUTION FOR ANY PHOTO RECOVERY NEEDS
  Not just plain deletion, but media files lost due to severe corruption in a storage drive or device can be recovered with this professional photo restoration software. The newly introduced Deep Scan utility enables you to perform a more comprehensive scan on the media to spot files that couldn’t be found with the default Quick Scan. So, the photo restoration software now practically recovers every photo, video, and audio file, if it ever was there on a storage drive and hasn’t been overwritten.
 
 ![Recovers Photos & Videos from Encrypted Drives](https://www.stellarinfo.com/image/catalog/feature-icon/Photo-Win/Recovers-Data-from-Encrypted-Drive.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Recovers Photos & Videos from Encrypted Drives
 
@@ -136,15 +136,15 @@ SUCCESS STORIES
 
 [Testimonials Photography Hobbyist _quote_  "Stellar helped me recover my precious 400 deleted photographs." **Mr. Micheal Duncan**   Johannesburg, South Africa](https://www.stellarinfo.com/image/catalog/testimonial/photo-recovery-software/Micheal.jpg) Photography Hobbyist _ ![quote](https://ukaidot.sjv.io/daqnoj) _  "Stellar helped me recover my precious 400 deleted photographs." **Mr. Micheal Duncan**   Johannesburg, South Africa ](#register-modalv)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Testimonials Technology Expert _quote_ "Recovered Hundreds of Photos from SD card." **Mr. Wayne D Bayer**   Florida, United States](https://www.stellarinfo.com/public/image/catalog/banner/wayne-d-bayer-testimonials.jpg) Technology Expert _ ![quote](https://ukaidot.sjv.io/daqnoj) _ "Recovered Hundreds of Photos from SD card." **Mr. Wayne D Bayer**   Florida, United States ](#register-modalv)
 
 [Testimonials Professional Photorapher _quote_  "Recovered Unrecoverable Corrupted Images in Healthy Format." **Mr. Alex McCauley**   Hammonds Plains, Canada](https://www.stellarinfo.com/image/catalog/testimonial/photo-recovery-software/Alex_McCauley.jpg) Professional Photorapher _ ![quote](https://ukaidot.sjv.io/daqnoj) _  "Recovered Unrecoverable Corrupted Images in Healthy Format." **Mr. Alex McCauley**   Hammonds Plains, Canada ](#register-modalv)
 
 OTHER FEATURES
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Add More Power
 
@@ -174,10 +174,6 @@ OTHER FEATURES
 
 ![4K Hard Drives Recovery](https://www.stellarinfo.com/image/catalog/feature-icon/photo-professional/4kDrive.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4K Hard Drives Recovery
 
  Stellar Photo Recovery is compatible with the latest 4K hard drives that store data in sectors of 4096 bytes. The robust software lets you restore precious photos and videos of any format from 4K sector drives using NTFS, FAT32, ExFAT, HFS+, or APFS file system. It also supports BitLocker-encrypted 4K hard drive recovery.
@@ -185,7 +181,11 @@ OTHER FEATURES
 ![Photo Recovery on Dual Monitors](https://www.stellarinfo.com/image/catalog/feature-icon/photo-professional/DualMonitorSetup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Photo Recovery on Dual Monitors
@@ -193,10 +193,6 @@ OTHER FEATURES
  The photo restore software’s dual monitor support facilitates a seamless image recovery and repair experience while you manage other tasks on your system. Now, no more switching between screens or tabs while restoring your precious photos.
 
 ![Enhanced Preview Before Saving](https://www.stellarinfo.com/image/catalog/feature-icon/Photo-Win/previews.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Enhanced Preview Before Saving
 
@@ -233,10 +229,6 @@ Software Walkthrough
 **Spotlight 1** : Photo Recovery
 
 ![Photo Recovery](https://www.stellarinfo.com/public/image/catalog/screenshot/photo-recovery-win-pro/first-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select the drive, volume, or external drive from which you want to restore media files. Click Scan.
 
@@ -309,10 +301,6 @@ AWARDS & REVIEWS
 
 ![q1](https://natural-cycles.sjv.io/vmebmr) ![q1](https://getlyla.pxf.io/ek9gkg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Peta Pixel](https://www.stellarinfo.com/image/catalog/awards/PetaPixel.jpg) ![star](https://ship7com.pxf.io/0zwaz3)
 
 Peta Pixel
@@ -354,6 +342,10 @@ Digital Camera World
  Rescue deleted images or video from any memory card or hard drive - it's no problem with Stellar Photo Recovery.
 
 ![Peta Pixel](https://www.stellarinfo.com/image/catalog/awards/PetaPixel.jpg) ![star](https://ship7com.pxf.io/0zwaz3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Peta Pixel
 
@@ -403,10 +395,6 @@ Documents
 
 TRY BEFORE YOU BUY
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Free Trial Download
 
 * It’s Easy as 1-2-3
@@ -421,6 +409,10 @@ TRY BEFORE YOU BUY
  \*Free Version Provides Preview of Deleted Photos/Videos or Corrupt Photos.
 
 USEFUL ARTICLES
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Product Related Articles
 
@@ -526,6 +518,10 @@ Awards Received
 * ![NIST](https://godlikehost.sjv.io/vnbxzv)
 * [HIPAA Verified](https://bluettieu.pxf.io/nlgoka) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Stellar Official Website
 
  Stellar Data Recovery Inc.  
@@ -587,6 +583,10 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 * ![Notron](https://propmoneyinc.pxf.io/q4jzdy)
 * ![DMCA](https://malaysia-healthcare-travel-council.pxf.io/752oeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -602,17 +602,24 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-polar-performances-ultimate-beijing-olympics-scoop/"><u>[New] Polar Performances Ultimate Beijing Olympics Scoop</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beginners-guide-to-video-production-free-course-series/"><u>[Updated] In 2024, Beginner's Guide to Video Production Free Course Series</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-samurai-spirit-explored-in-top-10-gaming-worlds/"><u>[Updated] In 2024, Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/advanced-file-deletion-solution-experience-the-power-of-stellars-standard-edition-eraser-pro-5-for-windows/"><u>Advanced File Deletion Solution: Experience the Power of Stellar's Standard Edition - Eraser Pro 5 for Windows</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202441027-ensure-data-privacy-on-your-mac-using-the-standard-version-of-stellar-scheduled-eraser/"><u>Ensure Data Privacy on Your Mac Using the Standard Version of Stellar Scheduled Eraser.</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/identifying-and-resolving-windows-failure-to-detect-video-card-tips-from-yl-software-experts/"><u>Identifying & Resolving Window's Failure to Detect Video Card - Tips From YL Software Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/masterclass-topics-on-effective-data-sanitization-tips-by-stellar-professionals/"><u>Masterclass Topics on Effective Data Sanitization - Tips by Stellar Professionals</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-mobile-time-lapse-magic-top-apps-for-creatives-2023-edition-for-2024/"><u>New Mobile Time-Lapse Magic Top Apps for Creatives (2023 Edition) for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-user-experience-with-powerful-cookiebot-features/"><u>Revolutionize User Experience With Powerful Cookiebot Features</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-data-disposal-stellars-essential-mac-tool-for-automated-file-annihilation/"><u>Secure Data Disposal: Stellar's Essential Mac Tool for Automated File Annihilation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-3-essential-gadgets-to-maintain-the-fresh-look-of-your-iphone-13-a-guide/"><u>Top 3 Essential Gadgets to Maintain the Fresh Look of Your iPhone 13: A Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-streamline-gameplay-utilizing-steams-switch-controller/"><u>[New] 2024 Approved Streamline Gameplay Utilizing Steam's Switch Controller</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-guide-to-android-movie-upturning/"><u>[New] Step-by-Step Guide to Android Movie Upturning</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-realtime-game-scorekeeper-for-2024/"><u>[Updated] RealTime Game Scorekeeper for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/amp-up-the-atmosphere-big-box-for-arcade-fronts/"><u>Amp up the Atmosphere: Big Box for Arcade Fronts</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-file-management-winpcs-most-valuable-fileshare-apps/"><u>Effortless File Management: WinPC's Most Valuable Fileshare Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-recover-deleted-phone-numbers-from-iphone-with-software-solutions/"><u>How to Recover Deleted Phone Numbers From iPhone with Software Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-7-cameras-to-improve-your-youtube-vlogging-experience/"><u>Ideal 7 Cameras To Improve Your YouTube Vlogging Experience</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-cookiebot-for-streamlined-and-successful-digital-marketing-strategies/"><u>Leverage Cookiebot for Streamlined and Successful Digital Marketing Strategies</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leveraging-cookiebot-for-superior-search-engine-results/"><u>Leveraging Cookiebot for Superior Search Engine Results</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/purchase-today-premium-iphone-eraser-tool/"><u>Purchase Today: Premium iPhone Eraser Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724766876375-realplayer/"><u>RealPlayerのダウンロードができないエラーを解消します!全てのトラブルシューティングガイド</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/resolving-your-iphones-continuous-data-recovery-dilemma-a-comprehensive-approach/"><u>Resolving Your iPhone's Continuous Data Recovery Dilemma: A Comprehensive Approach</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-your-memories-with-top-iphone-snapshot-restoration-applications/"><u>Revive Your Memories with Top iPhone Snapshot Restoration Applications</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-marketing-strategy-with-precision-targeted-cookiebot-tools/"><u>Revolutionize Your Marketing Strategy with Precision-Targeted Cookiebot Tools</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-potential-with-cookiebot-powered-seo-techniques/"><u>Unlocking Potential with Cookiebot-Powered SEO Techniques</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-potential-how-cookiebot-transforms-digital-campaigns/"><u>Unlocking Potential: How Cookiebot Transforms Digital Campaigns</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-timer-tutorial-how-to-create-a-countdown-in-fcpx-fast/"><u>Updated In 2024, Timer Tutorial How to Create a Countdown in FCPX Fast</u></a></li>
 </ul></div>
 
